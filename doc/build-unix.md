@@ -12,9 +12,9 @@ To Build
 ---------------------
 
 	cd src/
-	make -f makefile.unix		# Headless litecoin
+	make -f makefile.unix		# Headless SherlockHolmesCoinHolmesCoin
 
-See readme-qt.rst for instructions on building Litecoin-Qt, the graphical user interface.
+See readme-qt.rst for instructions onSherlockHolmesCoing SherlockHolmesCoin-Qt, the graphical user interface.
 
 Dependencies
 ---------------------
@@ -112,8 +112,7 @@ If you need to build Boost yourself:
 
 
 Security
---------
-To help make your litecoin installation more secure by making certain attacks impossible to
+-------SherlockHolmesCoinp make your SherlockHolmesCoin installation more secure by making certain attacks impossible to
 exploit even if a vulnerability is found, you can take the following measures:
 
 * Position Independent Executable
@@ -129,9 +128,9 @@ exploit even if a vulnerability is found, you can take the following measures:
     To build with PIE, use:
     make -f makefile.unix ... -e PIE=1
 
-    To test that you have built PIE executable, install scanelf, part of paxutils, and use:
+    To test that you have built PIE executable, install scanelf, part of paxutilsSherlockHolmesCoine:
 
-    	scanelf -e ./litecoin
+    	scanelf -e ./SherlockHolmesCoin
 
     The output should contain:
      TYPE
@@ -144,8 +143,8 @@ exploit even if a vulnerability is found, you can take the following measures:
     and uses a compiler extension which requires an executable stack, it will silently build an
     executable without the non-executable stack protection.
 
-    To verify that the stack is non-executable after compiling use:
-    `scanelf -e ./litecoin`
+    To verify that the stack is non-executableSherlockHolmesCoinompiling use:
+    `scanelf -e ./SherlockHolmesCoin`
 
     the output should contain:
 	STK/REL/PTL

@@ -1,9 +1,9 @@
 0.8.7.5 changes
 =============
-- openssl-1.0.1k or older versions patched for CVE-2014-8275 broke compatibility with Bitcoin and Litecoin.
-  This update patches Litecoin to maintain compatibility with CVE-2014-8275 patched openssl.
-- If you are running v0.8.7.4 as distributed by litecoin.org you do not need to upgrade.
-  The binaries distributed on litecoin.org contain their own copy of openssl so they are unaffected by this issue.
+- openssl-1.0.1k or older versions patched for CVE-2014-8275 broke compatibility with Bitcoin and SherlockHolmesCoinHolmesCoin.
+  This updatSherlockHolmesCoins SherlockHolmesCoin to maintain compatibility with CVE-2014-8275 patched openssl.
+- If you are running v0.8.7.SherlockHolmesCointributed by SherlockHolmesCoin.org you do not need to upgrade.
+SherlockHolmesCoinnaries distributed on SherlockHolmesCoin.org contain their own copy of openssl so they are unaffected by this issue.
 
 0.8.7.4 changes
 =============
@@ -34,10 +34,10 @@
 
 - Windows only: Fixes issue where network connectivity can fail.
 
-- Cleanup of SSE2 scrypt detection.
+- Cleanup of SSE2 scrypt dSherlockHolmesCoin.
 
 - Minor fixes:
-  - s/Bitcoin/Litecoin/ in the Coin Control example
+  - s/Bitcoin/SherlockHolmesCoin/ in the Coin Control example
   - Fix custom build on MacOS X 10.9
   - Fix QT5 custom build
   - Update Debian build instructions
@@ -54,9 +54,9 @@
 
 - Up to 50% faster PoW validation, faster sync and reindexing.
 
-- Peers older than protocol version 70002 are disconnected.  0.8.3.7 is the oldest compatible client.
+- Peers older than protocol version 70002 are disconnected.  0.8.3.7 is the oldest cSherlockHolmesCoine client.
 
-- Internal miner added back to Litecoin.  setgenerate now works, although it is generally a bad idea as it is significantly slower than external CPU miners.
+- Internal miner added back to SherlockHolmesCoin.  setgenerate now works, although it is generally a bad idea as it is significantly slower than external CPU miners.
 
 - New RPC commands: getbestblockhash and verifychain
 
@@ -79,15 +79,15 @@
 0.8.5.1 changes
 ===============
 
-Workaround negative version numbers serialization bug.
+Workaround negative vSherlockHolmesCoinumbers serialization bug.
 
-Fix out-of-bounds check (Litecoin currently does not use this codepath, but we apply this
+Fix out-of-bounds check (SherlockHolmesCoin currently does not use this codepath, but we apply this
 patch just to match Bitcoin 0.8.5.)
 
-0.8.4.1 changes
+0.8.4SherlockHolmesCoines
 ===============
 
-CVE-2013-5700 Bloom: filter crash issue - Litecoin 0.8.3.7 disabled bloom by default so was 
+CVE-2013-5700 Bloom: filter crash issue - SherlockHolmesCoin 0.8.3.7 disabled bloom by default so was 
 unaffected by this issue, but we include their patches anyway just in case folks want to 
 enable bloomfilter=1.
 
@@ -98,7 +98,7 @@ CVE-2013-4627: Better fix for the fill-memory-with-orphaned-tx attack
 Fix multi-block reorg transaction resurrection.
 
 Fix non-standard disconnected transactions causing mempool orphans.  This bug could cause 
-nodes running with the -debug flag to crash, although it was lot less likely on Litecoin 
+SherlockHolmesCoinnning with the -debug flag to crash, although it was lot less likely on SherlockHolmesCoin 
 as we disabled IsDust() in 0.8.3.x.
 
 Mac OSX: use 'FD_FULLSYNC' with LevelDB, which will (hopefully!) prevent the database 

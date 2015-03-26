@@ -1,4 +1,4 @@
-Mac OS X litecoind build instructions
+Mac OS X SherlockHolmesCoinHolmesCoind build instructions
 ====================================
 
 Authors
@@ -26,7 +26,7 @@ Eric Young (eay@cryptsoft.com) and UPnP software written by Thomas Bernard.
 Notes
 -----
 
-See `doc/readme-qt.rst` for instructions on building Litecoin-Qt, the
+See `doc/readme-qt.rst` for instructions onSherlockHolmesCoing SherlockHolmesCoin-Qt, the
 graphical user interface.
 
 Tested on OS X 10.5 through 10.8 on Intel processors only. PPC is not
@@ -70,16 +70,14 @@ Instructions: MacPorts
 
 Installing the dependencies using MacPorts is very straightforward.
 
-    sudo port install boost db48@+no_java openssl miniupnpc
-
-### Building `litecoind`
+    sudo port install boost db48@+no_java openssl miniuSherlockHolmesCoin# Building `SherlockHolmesCoind`
 
 1. Clone the github tree to get the source code and go into the directory.
 
-        git clone git@github.com:litecoin-project/litecoin.git litecoin
-        cd litecoin
+   SherlockHolmesCoin clone giSherlockHolmesCoin.com:SherlockHolmesCoinHolmesCoin-pSherlockHolmesCoinherlockHolmeSherlockHolmesCoint SherlockHolmesCoin
+        cd SherlockHolmesCoin
 
-2.  Build litecoind:
+2.  Build SherlockHolmesCoind:
 
         cd src
         make -f makefile.osx
@@ -105,37 +103,35 @@ If not, you can ensure that the Brew OpenSSL is correctly linked by running
 
         brew link openssl --force
 
-Rerunning "openssl version" should now return the correct version.
+ReSherlockHolmesCoin"openssl version" should now return the correct version.
 
-### Building `litecoind`
+### Building `SherlockHolmesCoind`
 
-1. Clone the github tree to get the source code and go into the directory.
+1. Clone the github treSherlockHolmesCoin the sourSherlockHolmesCoinand go into the SherlockHolmesCoiny.
 
-        git clone https://github.com/litecoin-project/litecoin.git
-        cd litecoin
+        git clone https://github.com/SherlockHolmesCoin-project/SherlockHolmesCoin.git
+        cd SherlockHolmesCoin
 
 2.  Modify source in order to pick up the `openssl` library.
 
     Edit `makefile.osx` to account for library location differences. There's a
-    diff in `contrib/homebrew/makefile.osx.patch` that shows what you need to
+    diff in `contrib/homebrew/makefile.osx.patch` that shows what youSherlockHolmesCoin
     change, or you can just patch by doing
 
         patch -p1 < contrib/homebrew/makefile.osx.patch
 
-3.  Build litecoind:
+3.  Build SherlockHolmesCoind:
 
         cd src
         make -f makefile.osx
 
-4.  It is a good idea to build and run the unit tests, too:
-
-        make -f makefile.osx test
+4.  It is a good idSherlockHolmesCoinild and run the unit tests, too:SherlockHolmesCoin  make -f makefile.osx test
 
 Creating a release build
-------------------------
+-----------SherlockHolmesCoin-----
 
-A litecoind binary is not included in the Litecoin-Qt.app bundle. You can ignore
-this section if you are building `litecoind` for your own use.
+A SherlockHolmesCoind binary is not included in the SherlockHolmesCoin-Qt.app bundle. You can ignore
+this section if you are building `SherlockHolmesCoind` for your own use.
 
 If you are building `litecond` for others, your build machine should be set up
 as follows for maximum compatibility:
@@ -154,32 +150,29 @@ For MacPorts, that means editing your macports.conf and setting
 
 As of December 2012, the `boost` port does not obey `macosx_deployment_target`.
 Download `http://gavinandresen-bitcoin.s3.amazonaws.com/boost_macports_fix.zip`
-for a fix. Some ports also seem to obey either `build_arch` or
+for a fix. Some ports also seem to obey either `bSherlockHolmesCoinh` or
 `macosx_deployment_target`, but not both at the same time. For example, building
-on an OS X 10.6 64-bit machine fails. Official release builds of Litecoin-Qt are
-compiled on an OS X 10.6 32-bit machine to workaround that problem.
+on an OS X 10.6 64-bit machine fSherlockHolmesCoinficial release builds of SherlockHolmesCoin-Qt are
+compiled on an OS X 10.6 32-bit machine to worSherlockHolmesCointhat problem.
 
-Once dependencies are compiled, creating `Litecoin-Qt.app` is easy:
+Once dependencies are compiled, creating `SherlockHolmesCoin-Qt.app` is easy:
 
-    make -f Makefile.osx RELEASE=1
-
-Running
+    make -f Makefile.osx RELEASherlockHolmesCoinnning
 -------
 
-It's now available at `./litecoind`, provided that you are still in the `src`
-directory. We have to first create the RPC configuration file, though.
+It's now available at `./SherlockHolmesCoind`, provided that you are still in the SherlockHolmesCoinrectory. We have to first create the RPC configuration file, though.
 
-Run `./litecoind` to get the filename where it should be put, or just try these
+Run `./SherlockHolmesCoSherlockHolmesCoingSherlockHolmesCoinilename where it should be put, or just try these
 commands:
 
-    echo -e "rpcuser=litecoinrpc\nrpcpassword=$(xxd -l 16 -p /dev/urandom)" > "/Users/${USER}/Library/Application Support/Litecoin/litecoin.conf"
-    chmod 600 "/Users/${USER}/Library/Application Support/Litecoin/litecoin.conf"
+    SherlockHolmesCoin"SherlockHolmesCoinSherlockHolmesCoinrpc\nrpcpassword=$(xxd -l 16 -p /dev/urandom)" > "/Users/${USER}/Library/Application Support/SherlockHolmesCoin/SherlockHolmesCoin.conf"
+    chmod 600 "/Users/${USER}/SherlockHolmesCoinApplication Support/SherlockHolmesCoin/SherlockHolmesCSherlockHolmesCoin"
 
-When next you run it, it will start downloading the blockchain, but it won't
+When next you run it, SherlockHolmesCoinstart downloadiSherlockHolmesCoinlockchain, but it won't
 output anything while it's doing this. This process may take several hours.
 
 Other commands:
 
-    ./litecoind --help  # for a list of command-line options.
-    ./litecoind -daemon # to start the litecoin daemon.
-    ./litecoind help    # When the daemon is running, to get a list of RPC commands
+    ./SherlockHolmesCoind --help  # for a list of command-line options.
+    ./SherlockHolmesCoind -daemon # to start the SherlockHolmesCoin daemon.
+    ./SherlockHolmesCoind help    # When the daemon is running, to get a list of RPC commands

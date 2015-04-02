@@ -8,8 +8,8 @@ if [ $# -lt 1 ]; then
         exit 1
 fi
 
-BITCOIND=${1}/bitcoind
-CLI=${1}/bitcoin-cli
+sherlockholmescoinD=${1}/sherlockholmescoind
+CLI=${1}/sherlockholmescoin-cli
 
 DIR="${BASH_SOURCE%/*}"
 SENDANDWAIT="${DIR}/send.sh"
@@ -24,13 +24,13 @@ D=$(mktemp -d test.XXXXX)
 D1=${D}/node1
 CreateDataDir $D1 port=11000 rpcport=11001
 B1ARGS="-datadir=$D1 -debug"
-$BITCOIND $B1ARGS &
+$sherlockholmescoinD $B1ARGS &
 B1PID=$!
 
 D2=${D}/node2
 CreateDataDir $D2 port=11010 rpcport=11011
 B2ARGS="-datadir=$D2 -debug"
-$BITCOIND $B2ARGS &
+$sherlockholmescoinD $B2ARGS &
 B2PID=$!
 
 trap "kill -9 $B1PID $B2PID; rm -rf $D" EXIT
@@ -80,14 +80,14 @@ CheckBalance $B2ARGS 0
 # restart B2 with no connection
 $CLI $B2ARGS stop > /dev/null 2>&1
 wait $B2PID
-$BITCOIND $B2ARGS &
+$sherlockholmescoinD $B2ARGS &
 B2PID=$!
 
 B2ADDRESS=$( $CLI $B2ARGS getnewaddress )
 
 # Have B1 create two transactions; second will
 # spend change from first, since B1 starts with only a single
-# 50 bitcoin output:
+# 50 sherlockholmescoin output:
 TXID1=$( $CLI $B1ARGS sendtoaddress $B2ADDRESS 1.0 )
 TXID2=$( $CLI $B1ARGS sendtoaddress $B2ADDRESS 2.0 )
 
@@ -132,11 +132,11 @@ wait $B1PID
 
 trap "" EXIT
 
-echo "Done, bitcoind's shut down. To rerun/poke around:"
-echo "${1}/bitcoind -datadir=$D1 -daemon"
-echo "${1}/bitcoind -datadir=$D2 -daemon -connect=127.0.0.1:11000"
+echo "Done, sherlockholmescoind's shut down. To rerun/poke around:"
+echo "${1}/sherlockholmescoind -datadir=$D1 -daemon"
+echo "${1}/sherlockholmescoind -datadir=$D2 -daemon -connect=127.0.0.1:11000"
 echo "To cleanup:"
-echo "killall bitcoind; rm -rf test.*"
+echo "killall sherlockholmescoind; rm -rf test.*"
 exit 0
 
 echo "Tests successful, cleaning up"

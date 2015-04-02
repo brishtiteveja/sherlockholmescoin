@@ -1,0 +1,8 @@
+obj/version.o: version.cpp \
+  /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/version.h \
+  /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/clientversion.h \
+  /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/obj/build.h
+version.cpp :
+  /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/version.h :
+  /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/clientversion.h :
+  /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/obj/build.h :

@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About SherlockHolmesCoin</source>
-        <translation>Sobre o SherlockHolmesCoin</translation>
+        <source>About sherlockholmescoin</source>
+        <translation>Sobre o sherlockholmescoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;SherlockHolmesCoin&lt;/b&gt; version</source>
-        <translation>Versão do &lt;b&gt;SherlockHolmesCoin&lt;/b&gt;</translation>
+        <source>&lt;b&gt;sherlockholmescoin&lt;/b&gt; version</source>
+        <translation>Versão do &lt;b&gt;sherlockholmescoin&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -34,8 +34,8 @@ Este produto inclui software desenvolvido pelo Projeto OpenSSL para uso no OpenS
     </message>
     <message>
         <location line="+0"/>
-        <source>The SherlockHolmesCoin developers</source>
-        <translation>Desenvolvedores do SherlockHolmesCoin</translation>
+        <source>The sherlockholmescoin developers</source>
+        <translation>Desenvolvedores do sherlockholmescoin</translation>
     </message>
 </context>
 <context>
@@ -67,8 +67,8 @@ Este produto inclui software desenvolvido pelo Projeto OpenSSL para uso no OpenS
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your SherlockHolmesCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Estes são os seus endereços SherlockHolmesCoin para receber pagamentos. Você pode querer enviar um endereço diferente para cada remetente, para acompanhar quem está pagando.</translation>
+        <source>These are your sherlockholmescoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Estes são os seus endereços sherlockholmescoin para receber pagamentos. Você pode querer enviar um endereço diferente para cada remetente, para acompanhar quem está pagando.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -82,8 +82,8 @@ Este produto inclui software desenvolvido pelo Projeto OpenSSL para uso no OpenS
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a SherlockHolmesCoin address</source>
-        <translation>Assine uma mensagem para provar que você é dono de um endereço SherlockHolmesCoin</translation>
+        <source>Sign a message to prove you own a sherlockholmescoin address</source>
+        <translation>Assine uma mensagem para provar que você é dono de um endereço sherlockholmescoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -107,8 +107,8 @@ Este produto inclui software desenvolvido pelo Projeto OpenSSL para uso no OpenS
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified SherlockHolmesCoin address</source>
-        <translation>Verificar mensagem para se assegurar que ela foi assinada pelo dono de um endereço SherlockHolmesCoin específico.</translation>
+        <source>Verify a message to ensure it was signed with a specified sherlockholmescoin address</source>
+        <translation>Verificar mensagem para se assegurar que ela foi assinada pelo dono de um endereço sherlockholmescoin específico.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -122,8 +122,8 @@ Este produto inclui software desenvolvido pelo Projeto OpenSSL para uso no OpenS
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your SherlockHolmesCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Estes são os seus endereços SherlockHolmesCoin para receber pagamentos. Você pode querer enviar um endereço diferente para cada remetente, para acompanhar quem está pagando.</translation>
+        <source>These are your sherlockholmescoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Estes são os seus endereços sherlockholmescoin para receber pagamentos. Você pode querer enviar um endereço diferente para cada remetente, para acompanhar quem está pagando.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -248,8 +248,8 @@ Este produto inclui software desenvolvido pelo Projeto OpenSSL para uso no OpenS
     </message>
     <message>
         <location line="+1"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR SherlockHolmesCoinS&lt;/b&gt;!</source>
-        <translation>Aviso: Se você criptografar sua carteira e perder sua senha, você vai &lt;b&gt;perder todos os seus SherlockHolmesCoinS!&lt;/b&gt;</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR sherlockholmescoinS&lt;/b&gt;!</source>
+        <translation>Aviso: Se você criptografar sua carteira e perder sua senha, você vai &lt;b&gt;perder todos os seus sherlockholmescoinS!&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -275,8 +275,8 @@ Este produto inclui software desenvolvido pelo Projeto OpenSSL para uso no OpenS
     </message>
     <message>
         <location line="-56"/>
-        <source>SherlockHolmesCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your SherlockHolmesCoins from being stolen by malware infecting your computer.</source>
-        <translation>O SherlockHolmesCoin irá fechar agora para finalizar o processo de encriptação. Lembre-se de que encriptar sua carteira não protege totalmente suas SherlockHolmesCoins de serem roubadas por malwares que tenham infectado o seu computador.</translation>
+        <source>sherlockholmescoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your sherlockholmescoins from being stolen by malware infecting your computer.</source>
+        <translation>O sherlockholmescoin irá fechar agora para finalizar o processo de encriptação. Lembre-se de que encriptar sua carteira não protege totalmente suas sherlockholmescoins de serem roubadas por malwares que tenham infectado o seu computador.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -321,9 +321,9 @@ Este produto inclui software desenvolvido pelo Projeto OpenSSL para uso no OpenS
     </message>
 </context>
 <context>
-    <name>BitcoinGUI</name>
+    <name>sherlockholmescoinGUI</name>
     <message>
-        <location filename="../bitcoingui.cpp" line="+233"/>
+        <location filename="../sherlockholmescoingui.cpp" line="+233"/>
         <source>Sign &amp;message...</source>
         <translation>&amp;Assinar Mensagem...</translation>
     </message>
@@ -374,8 +374,8 @@ Este produto inclui software desenvolvido pelo Projeto OpenSSL para uso no OpenS
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about SherlockHolmesCoin</source>
-        <translation>Mostrar informação sobre SherlockHolmesCoin</translation>
+        <source>Show information about sherlockholmescoin</source>
+        <translation>Mostrar informação sobre sherlockholmescoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -419,13 +419,13 @@ Este produto inclui software desenvolvido pelo Projeto OpenSSL para uso no OpenS
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a SherlockHolmesCoin address</source>
-        <translation>Enviar moedas para um endereço SherlockHolmesCoin</translation>
+        <source>Send coins to a sherlockholmescoin address</source>
+        <translation>Enviar moedas para um endereço sherlockholmescoin</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for SherlockHolmesCoin</source>
-        <translation>Modificar opções de configuração para SherlockHolmesCoin</translation>
+        <source>Modify configuration options for sherlockholmescoin</source>
+        <translation>Modificar opções de configuração para sherlockholmescoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -455,8 +455,8 @@ Este produto inclui software desenvolvido pelo Projeto OpenSSL para uso no OpenS
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>SherlockHolmesCoin</source>
-        <translation>SherlockHolmesCoin</translation>
+        <source>sherlockholmescoin</source>
+        <translation>sherlockholmescoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -480,8 +480,8 @@ Este produto inclui software desenvolvido pelo Projeto OpenSSL para uso no OpenS
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About SherlockHolmesCoin</source>
-        <translation>&amp;Sobre o SherlockHolmesCoin</translation>
+        <source>&amp;About sherlockholmescoin</source>
+        <translation>&amp;Sobre o sherlockholmescoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ Este produto inclui software desenvolvido pelo Projeto OpenSSL para uso no OpenS
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your SherlockHolmesCoin addresses to prove you own them</source>
-        <translation>Assine mensagems com seus endereços SherlockHolmesCoin para provar que você é dono deles</translation>
+        <source>Sign messages with your sherlockholmescoin addresses to prove you own them</source>
+        <translation>Assine mensagems com seus endereços sherlockholmescoin para provar que você é dono deles</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified SherlockHolmesCoin addresses</source>
-        <translation>Verificar mensagens para se assegurar que elas foram assinadas pelo dono de Endereços SherlockHolmesCoin específicos</translation>
+        <source>Verify messages to ensure they were signed with specified sherlockholmescoin addresses</source>
+        <translation>Verificar mensagens para se assegurar que elas foram assinadas pelo dono de Endereços sherlockholmescoin específicos</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -536,13 +536,13 @@ Este produto inclui software desenvolvido pelo Projeto OpenSSL para uso no OpenS
     </message>
     <message>
         <location line="+47"/>
-        <source>SherlockHolmesCoin client</source>
-        <translation>Cliente SherlockHolmesCoin</translation>
+        <source>sherlockholmescoin client</source>
+        <translation>Cliente sherlockholmescoin</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to SherlockHolmesCoin network</source>
-        <translation><numerusform>%n conexão ativa na rede SherlockHolmesCoin</numerusform><numerusform>%n conexões ativas na rede SherlockHolmesCoin</numerusform></translation>
+        <source>%n active connection(s) to sherlockholmescoin network</source>
+        <translation><numerusform>%n conexão ativa na rede sherlockholmescoin</numerusform><numerusform>%n conexões ativas na rede sherlockholmescoin</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -655,8 +655,8 @@ Endereço: %4</translation>
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid SherlockHolmesCoin address or malformed URI parameters.</source>
-        <translation>URI não pode ser decodificado! Isso pode ter sido causado por um endereço SherlockHolmesCoin inválido ou por parâmetros URI malformados.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid sherlockholmescoin address or malformed URI parameters.</source>
+        <translation>URI não pode ser decodificado! Isso pode ter sido causado por um endereço sherlockholmescoin inválido ou por parâmetros URI malformados.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -669,9 +669,9 @@ Endereço: %4</translation>
         <translation>Carteira está &lt;b&gt;criptografada&lt;/b&gt; e atualmente &lt;b&gt;bloqueada&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. SherlockHolmesCoin can no longer continue safely and will quit.</source>
-        <translation>Um erro fatal ocorreu. SherlockHolmesCoin não pode continuar em segurança e irá fechar.</translation>
+        <location filename="../sherlockholmescoin.cpp" line="+111"/>
+        <source>A fatal error occurred. sherlockholmescoin can no longer continue safely and will quit.</source>
+        <translation>Um erro fatal ocorreu. sherlockholmescoin não pode continuar em segurança e irá fechar.</translation>
     </message>
 </context>
 <context>
@@ -736,8 +736,8 @@ Endereço: %4</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid SherlockHolmesCoin address.</source>
-        <translation>O endereço digitado &quot;%1&quot; não é um endereço SherlockHolmesCoin válido.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid sherlockholmescoin address.</source>
+        <translation>O endereço digitado &quot;%1&quot; não é um endereço sherlockholmescoin válido.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -755,8 +755,8 @@ Endereço: %4</translation>
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>SherlockHolmesCoin-Qt</source>
-        <translation>SherlockHolmesCoin-Qt</translation>
+        <source>sherlockholmescoin-Qt</source>
+        <translation>sherlockholmescoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -818,13 +818,13 @@ Endereço: %4</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start SherlockHolmesCoin after logging in to the system.</source>
-        <translation>Iniciar SherlockHolmesCoin automaticamente após se logar no sistema.</translation>
+        <source>Automatically start sherlockholmescoin after logging in to the system.</source>
+        <translation>Iniciar sherlockholmescoin automaticamente após se logar no sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start SherlockHolmesCoin on system login</source>
-        <translation>Iniciar SherlockHolmesCoin no login do sistema</translation>
+        <source>&amp;Start sherlockholmescoin on system login</source>
+        <translation>Iniciar sherlockholmescoin no login do sistema</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -843,8 +843,8 @@ Endereço: %4</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the SherlockHolmesCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Abrir as portas do cliente SherlockHolmesCoin automaticamente no roteador. Isto só funcionará se seu roteador suportar UPnP e esta função estiver habilitada.</translation>
+        <source>Automatically open the sherlockholmescoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Abrir as portas do cliente sherlockholmescoin automaticamente no roteador. Isto só funcionará se seu roteador suportar UPnP e esta função estiver habilitada.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -853,8 +853,8 @@ Endereço: %4</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the SherlockHolmesCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Conectar à rede SherlockHolmesCoin através de um proxy SOCKS (ex. quando estiver usando através do Tor)</translation>
+        <source>Connect to the sherlockholmescoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Conectar à rede sherlockholmescoin através de um proxy SOCKS (ex. quando estiver usando através do Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -928,8 +928,8 @@ Endereço: %4</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting SherlockHolmesCoin.</source>
-        <translation>A língua da interface com usuário pode ser escolhida aqui. Esta configuração só surtirá efeito após reiniciar o SherlockHolmesCoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting sherlockholmescoin.</source>
+        <translation>A língua da interface com usuário pode ser escolhida aqui. Esta configuração só surtirá efeito após reiniciar o sherlockholmescoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -939,12 +939,12 @@ Endereço: %4</translation>
     <message>
         <location line="+13"/>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Escolha a unidade padrão de subdivisão para interface mostrar quando enviar SherlockHolmesCoins.</translation>
+        <translation>Escolha a unidade padrão de subdivisão para interface mostrar quando enviar sherlockholmescoins.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show SherlockHolmesCoin addresses in the transaction list or not.</source>
-        <translation>Mostrar ou não endereços SherlockHolmesCoin na lista de transações.</translation>
+        <source>Whether to show sherlockholmescoin addresses in the transaction list or not.</source>
+        <translation>Mostrar ou não endereços sherlockholmescoin na lista de transações.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -995,8 +995,8 @@ Endereço: %4</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting SherlockHolmesCoin.</source>
-        <translation>Esta configuração surtirá efeito após reinicializar o aplicativo SherlockHolmesCoin</translation>
+        <source>This setting will take effect after restarting sherlockholmescoin.</source>
+        <translation>Esta configuração surtirá efeito após reinicializar o aplicativo sherlockholmescoin</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1014,8 +1014,8 @@ Endereço: %4</translation>
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the SherlockHolmesCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>A informação mostrada pode estar desatualizada. Sua carteira sincroniza automaticamente com a rede SherlockHolmesCoin depois que a conexão é estabelecida, mas este processo pode não estar completo ainda.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the sherlockholmescoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>A informação mostrada pode estar desatualizada. Sua carteira sincroniza automaticamente com a rede sherlockholmescoin depois que a conexão é estabelecida, mas este processo pode não estar completo ainda.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1068,8 +1068,8 @@ Endereço: %4</translation>
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start SherlockHolmesCoin: click-to-pay handler</source>
-        <translation>Não foi possível iniciar SherlockHolmesCoin: manipulador clique-para-pagar</translation>
+        <source>Cannot start sherlockholmescoin: click-to-pay handler</source>
+        <translation>Não foi possível iniciar sherlockholmescoin: manipulador clique-para-pagar</translation>
     </message>
 </context>
 <context>
@@ -1218,8 +1218,8 @@ Endereço: %4</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the SherlockHolmesCoin-Qt help message to get a list with possible SherlockHolmesCoin command-line options.</source>
-        <translation>Mostrar mensagem de ajuda do SherlockHolmesCoin-Qt para obter uma lista com possíveis opções da linha de comando do SherlockHolmesCoin.</translation>
+        <source>Show the sherlockholmescoin-Qt help message to get a list with possible sherlockholmescoin command-line options.</source>
+        <translation>Mostrar mensagem de ajuda do sherlockholmescoin-Qt para obter uma lista com possíveis opções da linha de comando do sherlockholmescoin.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1238,13 +1238,13 @@ Endereço: %4</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>SherlockHolmesCoin - Debug window</source>
-        <translation>SherlockHolmesCoin - Janela de Depuração</translation>
+        <source>sherlockholmescoin - Debug window</source>
+        <translation>sherlockholmescoin - Janela de Depuração</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>SherlockHolmesCoin Core</source>
-        <translation>Núcleo SherlockHolmesCoin</translation>
+        <source>sherlockholmescoin Core</source>
+        <translation>Núcleo sherlockholmescoin</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1253,8 +1253,8 @@ Endereço: %4</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the SherlockHolmesCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Abrir o arquivo de log de depuração do SherlockHolmesCoin do diretório atual de dados. Isso pode levar alguns segundos para arquivos de log grandes.</translation>
+        <source>Open the sherlockholmescoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Abrir o arquivo de log de depuração do sherlockholmescoin do diretório atual de dados. Isso pode levar alguns segundos para arquivos de log grandes.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1263,8 +1263,8 @@ Endereço: %4</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the SherlockHolmesCoin RPC console.</source>
-        <translation>Bem-vindo ao console SherlockHolmesCoin RPC.</translation>
+        <source>Welcome to the sherlockholmescoin RPC console.</source>
+        <translation>Bem-vindo ao console sherlockholmescoin RPC.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1384,7 +1384,7 @@ Endereço: %4</translation>
     <message>
         <location line="+5"/>
         <source>Error: The transaction was rejected. This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
-        <translation>Erro: A transação foi rejeitada. Isso pode acontecer se alguns dos SherlockHolmesCoins de sua carteira já haviam sido gastos, por exemplo se você usou uma cópia do arquivo wallet.dat e alguns SherlockHolmesCoins foram gastos na cópia mas não foram marcados como gastos aqui.</translation>
+        <translation>Erro: A transação foi rejeitada. Isso pode acontecer se alguns dos sherlockholmescoins de sua carteira já haviam sido gastos, por exemplo se você usou uma cópia do arquivo wallet.dat e alguns sherlockholmescoins foram gastos na cópia mas não foram marcados como gastos aqui.</translation>
     </message>
 </context>
 <context>
@@ -1447,8 +1447,8 @@ Endereço: %4</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a SherlockHolmesCoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Digite um endereço SherlockHolmesCoin (exemplo: Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a sherlockholmescoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Digite um endereço sherlockholmescoin (exemplo: Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1512,8 +1512,8 @@ Endereço: %4</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this SherlockHolmesCoin address</source>
-        <translation>Assinar mensagem para provar que você é dono deste endereço SherlockHolmesCoin</translation>
+        <source>Sign the message to prove you own this sherlockholmescoin address</source>
+        <translation>Assinar mensagem para provar que você é dono deste endereço sherlockholmescoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1548,8 +1548,8 @@ Endereço: %4</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified SherlockHolmesCoin address</source>
-        <translation>Verificar mensagem para se assegurar que ela foi assinada pelo dono de um endereço SherlockHolmesCoin específico.</translation>
+        <source>Verify the message to ensure it was signed with the specified sherlockholmescoin address</source>
+        <translation>Verificar mensagem para se assegurar que ela foi assinada pelo dono de um endereço sherlockholmescoin específico.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1564,8 +1564,8 @@ Endereço: %4</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a SherlockHolmesCoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Digite um endereço SherlockHolmesCoin (exemplo: Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a sherlockholmescoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Digite um endereço sherlockholmescoin (exemplo: Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1574,8 +1574,8 @@ Endereço: %4</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter SherlockHolmesCoin signature</source>
-        <translation>Entre com a assinatura SherlockHolmesCoin</translation>
+        <source>Enter sherlockholmescoin signature</source>
+        <translation>Entre com a assinatura sherlockholmescoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1648,8 +1648,8 @@ Endereço: %4</translation>
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The SherlockHolmesCoin developers</source>
-        <translation>Desenvolvedores do SherlockHolmesCoin</translation>
+        <source>The sherlockholmescoin developers</source>
+        <translation>Desenvolvedores do sherlockholmescoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1783,7 +1783,7 @@ Endereço: %4</translation>
     <message>
         <location line="+3"/>
         <source>Generated coins must mature 120 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-        <translation>SherlockHolmesCoins gerados precisam maturar por 120 blocos antes de serem gastos. Quando você gera este bloco, ele é difundido na rede para ser adicionado ao blockchain. Se ele falhar ao ser acrescentado no blockchain, seu estado mudará para &quot;não aceito&quot; e não poderá ser gasto. Isso pode ocasionamente acontecer se outro nó gerou um bloco poucos segundos antes do seu.</translation>
+        <translation>sherlockholmescoins gerados precisam maturar por 120 blocos antes de serem gastos. Quando você gera este bloco, ele é difundido na rede para ser adicionado ao blockchain. Se ele falhar ao ser acrescentado no blockchain, seu estado mudará para &quot;não aceito&quot; e não poderá ser gasto. Isso pode ocasionamente acontecer se outro nó gerou um bloco poucos segundos antes do seu.</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -2183,11 +2183,11 @@ Endereço: %4</translation>
     </message>
 </context>
 <context>
-    <name>bitcoin-core</name>
+    <name>sherlockholmescoin-core</name>
     <message>
-        <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>SherlockHolmesCoin version</source>
-        <translation>Versão do SherlockHolmesCoin</translation>
+        <location filename="../sherlockholmescoinstrings.cpp" line="+94"/>
+        <source>sherlockholmescoin version</source>
+        <translation>Versão do sherlockholmescoin</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2196,8 +2196,8 @@ Endereço: %4</translation>
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or SherlockHolmesCoind</source>
-        <translation>Enviar comando para -server ou SherlockHolmesCoind</translation>
+        <source>Send command to -server or sherlockholmescoind</source>
+        <translation>Enviar comando para -server ou sherlockholmescoind</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2216,13 +2216,13 @@ Endereço: %4</translation>
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: SherlockHolmesCoin.conf)</source>
-        <translation>Especifique um arquivo de configurações (padrão: SherlockHolmesCoin.conf)</translation>
+        <source>Specify configuration file (default: sherlockholmescoin.conf)</source>
+        <translation>Especifique um arquivo de configurações (padrão: sherlockholmescoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: SherlockHolmesCoind.pid)</source>
-        <translation>Especifique um arquivo de pid (padrão: SherlockHolmesCoind.pid)</translation>
+        <source>Specify pid file (default: sherlockholmescoind.pid)</source>
+        <translation>Especifique um arquivo de pid (padrão: sherlockholmescoind.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2299,24 +2299,24 @@ Endereço: %4</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=SherlockHolmesCoinrpc
+rpcuser=sherlockholmescoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;SherlockHolmesCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;sherlockholmescoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, você deve especificar uma senha rpcpassword no arquivo de configuração:⏎
 %s⏎
 É recomendado que você use a seguinte senha aleatória:⏎
-rpcuser=SherlockHolmesCoinrpc⏎
+rpcuser=sherlockholmescoinrpc⏎
 rpcpassword=%s⏎
 (você não precisa lembrar esta senha)⏎
 O nome de usuário e a senha NÃO PODEM ser os mesmos.⏎
 Se o arquivo não existir, crie um com permissão de leitura apenas para o dono.⏎
 É recomendado também definir um alertnotify para que você seja notificado de problemas;⏎
-por exemplo: alertnotify=echo %%s | mail -s &quot;SherlockHolmesCoin Alert&quot; admin@foo.com⏎
+por exemplo: alertnotify=echo %%s | mail -s &quot;sherlockholmescoin Alert&quot; admin@foo.com⏎
 </translation>
     </message>
     <message>
@@ -2331,13 +2331,13 @@ por exemplo: alertnotify=echo %%s | mail -s &quot;SherlockHolmesCoin Alert&quot;
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. SherlockHolmesCoin is probably already running.</source>
-        <translation>Não foi possível obter exclusividade de escrita no endereço %s. O SherlockHolmesCoin provavelmente já está rodando.</translation>
+        <source>Cannot obtain a lock on data directory %s. sherlockholmescoin is probably already running.</source>
+        <translation>Não foi possível obter exclusividade de escrita no endereço %s. O sherlockholmescoin provavelmente já está rodando.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Error: The transaction was rejected! This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
-        <translation>Erro: A transação foi rejeitada. Isso pode acontecer se alguns dos SherlockHolmesCoins de sua carteira já haviam sido gastos, por exemplo se você usou uma cópia do arquivo wallet.dat e alguns SherlockHolmesCoins foram gastos na cópia mas não foram marcados como gastos aqui.</translation>
+        <translation>Erro: A transação foi rejeitada. Isso pode acontecer se alguns dos sherlockholmescoins de sua carteira já haviam sido gastos, por exemplo se você usou uma cópia do arquivo wallet.dat e alguns sherlockholmescoins foram gastos na cópia mas não foram marcados como gastos aqui.</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -2376,8 +2376,8 @@ por exemplo: alertnotify=echo %%s | mail -s &quot;SherlockHolmesCoin Alert&quot;
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong SherlockHolmesCoin will not work properly.</source>
-        <translation>Cuidado: Por favor, verifique que a data e hora do seu computador estão corretas! If o seu relógio estiver errado, o SherlockHolmesCoin não irá funcionar corretamente.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong sherlockholmescoin will not work properly.</source>
+        <translation>Cuidado: Por favor, verifique que a data e hora do seu computador estão corretas! If o seu relógio estiver errado, o sherlockholmescoin não irá funcionar corretamente.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2626,8 +2626,8 @@ por exemplo: alertnotify=echo %%s | mail -s &quot;SherlockHolmesCoin Alert&quot;
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the SherlockHolmesCoin Wiki for SSL setup instructions)</source>
-        <translation>Opções SSL: (veja a Wiki do SherlockHolmesCoin para instruções de configuração SSL)</translation>
+        <source>SSL options: (see the sherlockholmescoin Wiki for SSL setup instructions)</source>
+        <translation>Opções SSL: (veja a Wiki do sherlockholmescoin para instruções de configuração SSL)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2816,13 +2816,13 @@ por exemplo: alertnotify=echo %%s | mail -s &quot;SherlockHolmesCoin Alert&quot;
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of SherlockHolmesCoin</source>
-        <translation>Erro ao carregar wallet.dat: Carteira requer uma versão mais nova do SherlockHolmesCoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of sherlockholmescoin</source>
+        <translation>Erro ao carregar wallet.dat: Carteira requer uma versão mais nova do sherlockholmescoin</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart SherlockHolmesCoin to complete</source>
-        <translation>A Carteira precisou ser reescrita: reinicie o SherlockHolmesCoin para completar</translation>
+        <source>Wallet needed to be rewritten: restart sherlockholmescoin to complete</source>
+        <translation>A Carteira precisou ser reescrita: reinicie o sherlockholmescoin para completar</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2881,8 +2881,8 @@ por exemplo: alertnotify=echo %%s | mail -s &quot;SherlockHolmesCoin Alert&quot;
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. SherlockHolmesCoin is probably already running.</source>
-        <translation>Impossível vincular a %s neste computador. O SherlockHolmesCoin provavelmente já está rodando.</translation>
+        <source>Unable to bind to %s on this computer. sherlockholmescoin is probably already running.</source>
+        <translation>Impossível vincular a %s neste computador. O sherlockholmescoin provavelmente já está rodando.</translation>
     </message>
     <message>
         <location line="+64"/>

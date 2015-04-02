@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About SherlockHolmesCoin</source>
-        <translation>O SherlockHolmesCoin-u</translation>
+        <source>About sherlockholmescoin</source>
+        <translation>O sherlockholmescoin-u</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;SherlockHolmesCoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;SherlockHolmesCoin&lt;/b&gt; verzija</translation>
+        <source>&lt;b&gt;sherlockholmescoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;sherlockholmescoin&lt;/b&gt; verzija</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -29,7 +29,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+0"/>
-        <source>The SherlockHolmesCoin developers</source>
+        <source>The sherlockholmescoin developers</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -62,8 +62,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your SherlockHolmesCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Ovo su vaše SherlockHolmesCoin adrese za primanje isplate. Možda želite dati drukčiju adresu svakom primatelju tako da možete pratiti tko je platio.</translation>
+        <source>These are your sherlockholmescoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Ovo su vaše sherlockholmescoin adrese za primanje isplate. Možda želite dati drukčiju adresu svakom primatelju tako da možete pratiti tko je platio.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -77,7 +77,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a SherlockHolmesCoin address</source>
+        <source>Sign a message to prove you own a sherlockholmescoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -102,7 +102,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified SherlockHolmesCoin address</source>
+        <source>Verify a message to ensure it was signed with a specified sherlockholmescoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -117,7 +117,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your SherlockHolmesCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your sherlockholmescoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -243,8 +243,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+1"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR SherlockHolmesCoinS&lt;/b&gt;!</source>
-        <translation>Upozorenje: Ako šifrirate vaš novčanik i izgubite lozinku, &lt;b&gt;IZGUBIT ĆETE SVE SVOJE SherlockHolmesCoinSE!&lt;/b&gt;</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR sherlockholmescoinS&lt;/b&gt;!</source>
+        <translation>Upozorenje: Ako šifrirate vaš novčanik i izgubite lozinku, &lt;b&gt;IZGUBIT ĆETE SVE SVOJE sherlockholmescoinSE!&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -270,8 +270,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-56"/>
-        <source>SherlockHolmesCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your SherlockHolmesCoins from being stolen by malware infecting your computer.</source>
-        <translation>SherlockHolmesCoin će se sada zatvoriti kako bi dovršio postupak šifriranja. Zapamtite da šifriranje vašeg novčanika ne može u potpunosti zaštititi vaše SherlockHolmesCoine od krađe preko zloćudnog softvera koji bi bio na vašem računalu.</translation>
+        <source>sherlockholmescoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your sherlockholmescoins from being stolen by malware infecting your computer.</source>
+        <translation>sherlockholmescoin će se sada zatvoriti kako bi dovršio postupak šifriranja. Zapamtite da šifriranje vašeg novčanika ne može u potpunosti zaštititi vaše sherlockholmescoine od krađe preko zloćudnog softvera koji bi bio na vašem računalu.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -316,9 +316,9 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
 </context>
 <context>
-    <name>BitcoinGUI</name>
+    <name>sherlockholmescoinGUI</name>
     <message>
-        <location filename="../bitcoingui.cpp" line="+233"/>
+        <location filename="../sherlockholmescoingui.cpp" line="+233"/>
         <source>Sign &amp;message...</source>
         <translation>&amp;Potpišite poruku...</translation>
     </message>
@@ -369,8 +369,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about SherlockHolmesCoin</source>
-        <translation>Prikaži informacije o SherlockHolmesCoinu</translation>
+        <source>Show information about sherlockholmescoin</source>
+        <translation>Prikaži informacije o sherlockholmescoinu</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -414,13 +414,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a SherlockHolmesCoin address</source>
-        <translation>Slanje novca na SherlockHolmesCoin adresu</translation>
+        <source>Send coins to a sherlockholmescoin address</source>
+        <translation>Slanje novca na sherlockholmescoin adresu</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for SherlockHolmesCoin</source>
-        <translation>Promijeni postavke konfiguracije za SherlockHolmesCoin</translation>
+        <source>Modify configuration options for sherlockholmescoin</source>
+        <translation>Promijeni postavke konfiguracije za sherlockholmescoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -450,8 +450,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>SherlockHolmesCoin</source>
-        <translation>SherlockHolmesCoin</translation>
+        <source>sherlockholmescoin</source>
+        <translation>sherlockholmescoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -475,8 +475,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About SherlockHolmesCoin</source>
-        <translation>&amp;O SherlockHolmesCoinu</translation>
+        <source>&amp;About sherlockholmescoin</source>
+        <translation>&amp;O sherlockholmescoinu</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -495,12 +495,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your SherlockHolmesCoin addresses to prove you own them</source>
+        <source>Sign messages with your sherlockholmescoin addresses to prove you own them</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified SherlockHolmesCoin addresses</source>
+        <source>Verify messages to ensure they were signed with specified sherlockholmescoin addresses</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -531,13 +531,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+47"/>
-        <source>SherlockHolmesCoin client</source>
-        <translation>SherlockHolmesCoin klijent</translation>
+        <source>sherlockholmescoin client</source>
+        <translation>sherlockholmescoin klijent</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to SherlockHolmesCoin network</source>
-        <translation><numerusform>%n aktivna veza na SherlockHolmesCoin mrežu</numerusform><numerusform>%n aktivne veze na SherlockHolmesCoin mrežu</numerusform><numerusform>%n aktivnih veza na SherlockHolmesCoin mrežu</numerusform></translation>
+        <source>%n active connection(s) to sherlockholmescoin network</source>
+        <translation><numerusform>%n aktivna veza na sherlockholmescoin mrežu</numerusform><numerusform>%n aktivne veze na sherlockholmescoin mrežu</numerusform><numerusform>%n aktivnih veza na sherlockholmescoin mrežu</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -651,7 +651,7 @@ Adresa:%4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid SherlockHolmesCoin address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid sherlockholmescoin address or malformed URI parameters.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -665,8 +665,8 @@ Adresa:%4
         <translation>Novčanik je &lt;b&gt;šifriran&lt;/b&gt; i trenutno &lt;b&gt;zaključan&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. SherlockHolmesCoin can no longer continue safely and will quit.</source>
+        <location filename="../sherlockholmescoin.cpp" line="+111"/>
+        <source>A fatal error occurred. sherlockholmescoin can no longer continue safely and will quit.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -732,8 +732,8 @@ Adresa:%4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid SherlockHolmesCoin address.</source>
-        <translation>Upisana adresa &quot;%1&quot; nije valjana SherlockHolmesCoin adresa.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid sherlockholmescoin address.</source>
+        <translation>Upisana adresa &quot;%1&quot; nije valjana sherlockholmescoin adresa.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -751,7 +751,7 @@ Adresa:%4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>SherlockHolmesCoin-Qt</source>
+        <source>sherlockholmescoin-Qt</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -814,13 +814,13 @@ Adresa:%4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start SherlockHolmesCoin after logging in to the system.</source>
-        <translation>Automatski pokreni SherlockHolmesCoin kad se uključi računalo</translation>
+        <source>Automatically start sherlockholmescoin after logging in to the system.</source>
+        <translation>Automatski pokreni sherlockholmescoin kad se uključi računalo</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start SherlockHolmesCoin on system login</source>
-        <translation>&amp;Pokreni SherlockHolmesCoin kod pokretanja sustava</translation>
+        <source>&amp;Start sherlockholmescoin on system login</source>
+        <translation>&amp;Pokreni sherlockholmescoin kod pokretanja sustava</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -839,8 +839,8 @@ Adresa:%4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the SherlockHolmesCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatski otvori port SherlockHolmesCoin klijenta na ruteru. To radi samo ako ruter podržava UPnP i ako je omogućen.</translation>
+        <source>Automatically open the sherlockholmescoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatski otvori port sherlockholmescoin klijenta na ruteru. To radi samo ako ruter podržava UPnP i ako je omogućen.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -849,7 +849,7 @@ Adresa:%4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the SherlockHolmesCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the sherlockholmescoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
         <translation>Spojite se na Bitcon mrežu putem SOCKS proxy-a (npr. kod povezivanja kroz Tor)</translation>
     </message>
     <message>
@@ -924,7 +924,7 @@ Adresa:%4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting SherlockHolmesCoin.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting sherlockholmescoin.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -935,11 +935,11 @@ Adresa:%4
     <message>
         <location line="+13"/>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Izaberite željeni najmanji dio SherlockHolmesCoina koji će biti prikazan u sučelju i koji će se koristiti za plaćanje.</translation>
+        <translation>Izaberite željeni najmanji dio sherlockholmescoina koji će biti prikazan u sučelju i koji će se koristiti za plaćanje.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show SherlockHolmesCoin addresses in the transaction list or not.</source>
+        <source>Whether to show sherlockholmescoin addresses in the transaction list or not.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -991,7 +991,7 @@ Adresa:%4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting SherlockHolmesCoin.</source>
+        <source>This setting will take effect after restarting sherlockholmescoin.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1010,7 +1010,7 @@ Adresa:%4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the SherlockHolmesCoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the sherlockholmescoin network after a connection is established, but this process has not completed yet.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1064,7 +1064,7 @@ Adresa:%4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start SherlockHolmesCoin: click-to-pay handler</source>
+        <source>Cannot start sherlockholmescoin: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1214,7 +1214,7 @@ Adresa:%4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the SherlockHolmesCoin-Qt help message to get a list with possible SherlockHolmesCoin command-line options.</source>
+        <source>Show the sherlockholmescoin-Qt help message to get a list with possible sherlockholmescoin command-line options.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1234,12 +1234,12 @@ Adresa:%4
     </message>
     <message>
         <location line="-104"/>
-        <source>SherlockHolmesCoin - Debug window</source>
+        <source>sherlockholmescoin - Debug window</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+25"/>
-        <source>SherlockHolmesCoin Core</source>
+        <source>sherlockholmescoin Core</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1249,7 +1249,7 @@ Adresa:%4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the SherlockHolmesCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the sherlockholmescoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1259,7 +1259,7 @@ Adresa:%4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the SherlockHolmesCoin RPC console.</source>
+        <source>Welcome to the sherlockholmescoin RPC console.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1443,8 +1443,8 @@ Adresa:%4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a SherlockHolmesCoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Unesite SherlockHolmesCoin adresu (npr. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a sherlockholmescoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Unesite sherlockholmescoin adresu (npr. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1467,7 +1467,7 @@ Adresa:%4
     <message>
         <location line="+18"/>
         <source>The address to sign the message with (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Unesite SherlockHolmesCoin adresu (npr. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <translation>Unesite sherlockholmescoin adresu (npr. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1508,7 +1508,7 @@ Adresa:%4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this SherlockHolmesCoin address</source>
+        <source>Sign the message to prove you own this sherlockholmescoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1540,11 +1540,11 @@ Adresa:%4
     <message>
         <location line="+21"/>
         <source>The address the message was signed with (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Unesite SherlockHolmesCoin adresu (npr. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <translation>Unesite sherlockholmescoin adresu (npr. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified SherlockHolmesCoin address</source>
+        <source>Verify the message to ensure it was signed with the specified sherlockholmescoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1560,8 +1560,8 @@ Adresa:%4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a SherlockHolmesCoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Unesite SherlockHolmesCoin adresu (npr. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a sherlockholmescoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Unesite sherlockholmescoin adresu (npr. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1570,7 +1570,7 @@ Adresa:%4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter SherlockHolmesCoin signature</source>
+        <source>Enter sherlockholmescoin signature</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1644,7 +1644,7 @@ Adresa:%4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The SherlockHolmesCoin developers</source>
+        <source>The sherlockholmescoin developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2179,11 +2179,11 @@ Adresa:%4
     </message>
 </context>
 <context>
-    <name>bitcoin-core</name>
+    <name>sherlockholmescoin-core</name>
     <message>
-        <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>SherlockHolmesCoin version</source>
-        <translation>SherlockHolmesCoin verzija</translation>
+        <location filename="../sherlockholmescoinstrings.cpp" line="+94"/>
+        <source>sherlockholmescoin version</source>
+        <translation>sherlockholmescoin verzija</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2192,8 +2192,8 @@ Adresa:%4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or SherlockHolmesCoind</source>
-        <translation>Pošalji komandu usluzi -server ili SherlockHolmesCoind</translation>
+        <source>Send command to -server or sherlockholmescoind</source>
+        <translation>Pošalji komandu usluzi -server ili sherlockholmescoind</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2212,13 +2212,13 @@ Adresa:%4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: SherlockHolmesCoin.conf)</source>
-        <translation>Odredi konfiguracijsku datoteku (ugrađeni izbor: SherlockHolmesCoin.conf)</translation>
+        <source>Specify configuration file (default: sherlockholmescoin.conf)</source>
+        <translation>Odredi konfiguracijsku datoteku (ugrađeni izbor: sherlockholmescoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: SherlockHolmesCoind.pid)</source>
-        <translation>Odredi proces ID datoteku (ugrađeni izbor: SherlockHolmesCoin.pid)</translation>
+        <source>Specify pid file (default: sherlockholmescoind.pid)</source>
+        <translation>Odredi proces ID datoteku (ugrađeni izbor: sherlockholmescoin.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2295,13 +2295,13 @@ Adresa:%4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=SherlockHolmesCoinrpc
+rpcuser=sherlockholmescoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;SherlockHolmesCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;sherlockholmescoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2317,7 +2317,7 @@ for example: alertnotify=echo %%s | mail -s &quot;SherlockHolmesCoin Alert&quot;
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. SherlockHolmesCoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. sherlockholmescoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2362,8 +2362,8 @@ for example: alertnotify=echo %%s | mail -s &quot;SherlockHolmesCoin Alert&quot;
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong SherlockHolmesCoin will not work properly.</source>
-        <translation>Upozorenje: Molimo provjerite jesu li datum i vrijeme na vašem računalu točni. Ako vaš sat ide krivo, SherlockHolmesCoin neće raditi ispravno.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong sherlockholmescoin will not work properly.</source>
+        <translation>Upozorenje: Molimo provjerite jesu li datum i vrijeme na vašem računalu točni. Ako vaš sat ide krivo, sherlockholmescoin neće raditi ispravno.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2612,8 +2612,8 @@ for example: alertnotify=echo %%s | mail -s &quot;SherlockHolmesCoin Alert&quot;
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the SherlockHolmesCoin Wiki for SSL setup instructions)</source>
-        <translation>SSL postavke: (za detalje o podešavanju SSL opcija vidi SherlockHolmesCoin Wiki)</translation>
+        <source>SSL options: (see the sherlockholmescoin Wiki for SSL setup instructions)</source>
+        <translation>SSL postavke: (za detalje o podešavanju SSL opcija vidi sherlockholmescoin Wiki)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2802,13 +2802,13 @@ for example: alertnotify=echo %%s | mail -s &quot;SherlockHolmesCoin Alert&quot;
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of SherlockHolmesCoin</source>
-        <translation>Greška kod učitavanja wallet.dat: Novčanik zahtjeva noviju verziju SherlockHolmesCoina</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of sherlockholmescoin</source>
+        <translation>Greška kod učitavanja wallet.dat: Novčanik zahtjeva noviju verziju sherlockholmescoina</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart SherlockHolmesCoin to complete</source>
-        <translation>Novčanik je trebao prepravak: ponovo pokrenite SherlockHolmesCoin</translation>
+        <source>Wallet needed to be rewritten: restart sherlockholmescoin to complete</source>
+        <translation>Novčanik je trebao prepravak: ponovo pokrenite sherlockholmescoin</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2867,8 +2867,8 @@ for example: alertnotify=echo %%s | mail -s &quot;SherlockHolmesCoin Alert&quot;
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. SherlockHolmesCoin is probably already running.</source>
-        <translation>Program ne može koristiti %s na ovom računalu.  SherlockHolmesCoin program je vjerojatno već pokrenut.</translation>
+        <source>Unable to bind to %s on this computer. sherlockholmescoin is probably already running.</source>
+        <translation>Program ne može koristiti %s na ovom računalu.  sherlockholmescoin program je vjerojatno već pokrenut.</translation>
     </message>
     <message>
         <location line="+64"/>

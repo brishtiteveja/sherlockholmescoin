@@ -1,4 +1,4 @@
-Mac OS X SherlockHolmesCoinHolmesCoind build instructions
+Mac OS X sherlockholmescoinHolmesCoind build instructions
 ====================================
 
 Authors
@@ -12,7 +12,7 @@ Authors
 License
 -------
 
-Copyright (c) 2009-2012 Bitcoin Developers
+Copyright (c) 2009-2012 sherlockholmescoin Developers
 
 Distributed under the MIT/X11 software license, see the accompanying
 file COPYING or http://www.opensource.org/licenses/mit-license.php.
@@ -26,7 +26,7 @@ Eric Young (eay@cryptsoft.com) and UPnP software written by Thomas Bernard.
 Notes
 -----
 
-See `doc/readme-qt.rst` for instructions onSherlockHolmesCoing SherlockHolmesCoin-Qt, the
+See `doc/readme-qt.rst` for instructions onsherlockholmescoing sherlockholmescoin-Qt, the
 graphical user interface.
 
 Tested on OS X 10.5 through 10.8 on Intel processors only. PPC is not
@@ -70,14 +70,14 @@ Instructions: MacPorts
 
 Installing the dependencies using MacPorts is very straightforward.
 
-    sudo port install boost db48@+no_java openssl miniuSherlockHolmesCoin# Building `SherlockHolmesCoind`
+    sudo port install boost db48@+no_java openssl miniusherlockholmescoin# Building `sherlockholmescoind`
 
 1. Clone the github tree to get the source code and go into the directory.
 
-   SherlockHolmesCoin clone giSherlockHolmesCoin.com:SherlockHolmesCoinHolmesCoin-pSherlockHolmesCoinherlockHolmeSherlockHolmesCoint SherlockHolmesCoin
-        cd SherlockHolmesCoin
+   sherlockholmescoin clone gisherlockholmescoin.com:sherlockholmescoinHolmesCoin-psherlockholmescoinherlockHolmesherlockholmescoint sherlockholmescoin
+        cd sherlockholmescoin
 
-2.  Build SherlockHolmesCoind:
+2.  Build sherlockholmescoind:
 
         cd src
         make -f makefile.osx
@@ -103,35 +103,35 @@ If not, you can ensure that the Brew OpenSSL is correctly linked by running
 
         brew link openssl --force
 
-ReSherlockHolmesCoin"openssl version" should now return the correct version.
+Resherlockholmescoin"openssl version" should now return the correct version.
 
-### Building `SherlockHolmesCoind`
+### Building `sherlockholmescoind`
 
-1. Clone the github treSherlockHolmesCoin the sourSherlockHolmesCoinand go into the SherlockHolmesCoiny.
+1. Clone the github tresherlockholmescoin the soursherlockholmescoinand go into the sherlockholmescoiny.
 
-        git clone https://github.com/SherlockHolmesCoin-project/SherlockHolmesCoin.git
-        cd SherlockHolmesCoin
+        git clone https://github.com/sherlockholmescoin-project/sherlockholmescoin.git
+        cd sherlockholmescoin
 
 2.  Modify source in order to pick up the `openssl` library.
 
     Edit `makefile.osx` to account for library location differences. There's a
-    diff in `contrib/homebrew/makefile.osx.patch` that shows what youSherlockHolmesCoin
+    diff in `contrib/homebrew/makefile.osx.patch` that shows what yousherlockholmescoin
     change, or you can just patch by doing
 
         patch -p1 < contrib/homebrew/makefile.osx.patch
 
-3.  Build SherlockHolmesCoind:
+3.  Build sherlockholmescoind:
 
         cd src
         make -f makefile.osx
 
-4.  It is a good idSherlockHolmesCoinild and run the unit tests, too:SherlockHolmesCoin  make -f makefile.osx test
+4.  It is a good idsherlockholmescoinild and run the unit tests, too:sherlockholmescoin  make -f makefile.osx test
 
 Creating a release build
------------SherlockHolmesCoin-----
+-----------sherlockholmescoin-----
 
-A SherlockHolmesCoind binary is not included in the SherlockHolmesCoin-Qt.app bundle. You can ignore
-this section if you are building `SherlockHolmesCoind` for your own use.
+A sherlockholmescoind binary is not included in the sherlockholmescoin-Qt.app bundle. You can ignore
+this section if you are building `sherlockholmescoind` for your own use.
 
 If you are building `litecond` for others, your build machine should be set up
 as follows for maximum compatibility:
@@ -149,30 +149,30 @@ For MacPorts, that means editing your macports.conf and setting
 ... and then uninstalling and re-installing, or simply rebuilding, all ports.
 
 As of December 2012, the `boost` port does not obey `macosx_deployment_target`.
-Download `http://gavinandresen-bitcoin.s3.amazonaws.com/boost_macports_fix.zip`
-for a fix. Some ports also seem to obey either `bSherlockHolmesCoinh` or
+Download `http://gavinandresen-sherlockholmescoin.s3.amazonaws.com/boost_macports_fix.zip`
+for a fix. Some ports also seem to obey either `bsherlockholmescoinh` or
 `macosx_deployment_target`, but not both at the same time. For example, building
-on an OS X 10.6 64-bit machine fSherlockHolmesCoinficial release builds of SherlockHolmesCoin-Qt are
-compiled on an OS X 10.6 32-bit machine to worSherlockHolmesCointhat problem.
+on an OS X 10.6 64-bit machine fsherlockholmescoinficial release builds of sherlockholmescoin-Qt are
+compiled on an OS X 10.6 32-bit machine to worsherlockholmescointhat problem.
 
-Once dependencies are compiled, creating `SherlockHolmesCoin-Qt.app` is easy:
+Once dependencies are compiled, creating `sherlockholmescoin-Qt.app` is easy:
 
-    make -f Makefile.osx RELEASherlockHolmesCoinnning
+    make -f Makefile.osx RELEAsherlockholmescoinnning
 -------
 
-It's now available at `./SherlockHolmesCoind`, provided that you are still in the SherlockHolmesCoinrectory. We have to first create the RPC configuration file, though.
+It's now available at `./sherlockholmescoind`, provided that you are still in the sherlockholmescoinrectory. We have to first create the RPC configuration file, though.
 
-Run `./SherlockHolmesCoSherlockHolmesCoingSherlockHolmesCoinilename where it should be put, or just try these
+Run `./SherlockHolmesCosherlockholmescoingsherlockholmescoinilename where it should be put, or just try these
 commands:
 
-    SherlockHolmesCoin"SherlockHolmesCoinSherlockHolmesCoinrpc\nrpcpassword=$(xxd -l 16 -p /dev/urandom)" > "/Users/${USER}/Library/Application Support/SherlockHolmesCoin/SherlockHolmesCoin.conf"
-    chmod 600 "/Users/${USER}/SherlockHolmesCoinApplication Support/SherlockHolmesCoin/SherlockHolmesCSherlockHolmesCoin"
+    sherlockholmescoin"sherlockholmescoinsherlockholmescoinrpc\nrpcpassword=$(xxd -l 16 -p /dev/urandom)" > "/Users/${USER}/Library/Application Support/sherlockholmescoin/sherlockholmescoin.conf"
+    chmod 600 "/Users/${USER}/sherlockholmescoinApplication Support/sherlockholmescoin/SherlockHolmesCsherlockholmescoin"
 
-When next you run it, SherlockHolmesCoinstart downloadiSherlockHolmesCoinlockchain, but it won't
+When next you run it, sherlockholmescoinstart downloadisherlockholmescoinlockchain, but it won't
 output anything while it's doing this. This process may take several hours.
 
 Other commands:
 
-    ./SherlockHolmesCoind --help  # for a list of command-line options.
-    ./SherlockHolmesCoind -daemon # to start the SherlockHolmesCoin daemon.
-    ./SherlockHolmesCoind help    # When the daemon is running, to get a list of RPC commands
+    ./sherlockholmescoind --help  # for a list of command-line options.
+    ./sherlockholmescoind -daemon # to start the sherlockholmescoin daemon.
+    ./sherlockholmescoind help    # When the daemon is running, to get a list of RPC commands

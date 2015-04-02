@@ -1,2 +1,2 @@
-debian/manpages/bitcoind.1
-debian/manpages/bitcoin.conf.5
+debian/manpages/sherlockholmescoind.1
+debian/manpages/sherlockholmescoin.conf.5

@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About SherlockHolmesCoin</source>
-        <translation>O SherlockHolmesCoinu</translation>
+        <source>About sherlockholmescoin</source>
+        <translation>O sherlockholmescoinu</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;SherlockHolmesCoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;SherlockHolmesCoin&lt;/b&gt; verze</translation>
+        <source>&lt;b&gt;sherlockholmescoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;sherlockholmescoin&lt;/b&gt; verze</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -34,8 +34,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="+0"/>
-        <source>The SherlockHolmesCoin developers</source>
-        <translation>Vývojáři SherlockHolmesCoinu</translation>
+        <source>The sherlockholmescoin developers</source>
+        <translation>Vývojáři sherlockholmescoinu</translation>
     </message>
 </context>
 <context>
@@ -67,8 +67,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your SherlockHolmesCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Tohle jsou tvé SherlockHolmesCoinové adresy pro příjem plateb. Můžeš dát pokaždé každému plátci novou adresu, abys věděl, kdo ti kdy kolik platil.</translation>
+        <source>These are your sherlockholmescoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Tohle jsou tvé sherlockholmescoinové adresy pro příjem plateb. Můžeš dát pokaždé každému plátci novou adresu, abys věděl, kdo ti kdy kolik platil.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -82,8 +82,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a SherlockHolmesCoin address</source>
-        <translation>Podepiš zprávu, čímž prokážeš, že jsi vlastníkem SherlockHolmesCoinové adresy</translation>
+        <source>Sign a message to prove you own a sherlockholmescoin address</source>
+        <translation>Podepiš zprávu, čímž prokážeš, že jsi vlastníkem sherlockholmescoinové adresy</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -107,8 +107,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified SherlockHolmesCoin address</source>
-        <translation>Ověř zprávu, aby ses ujistil, že byla podepsána danou SherlockHolmesCoinovou adresou</translation>
+        <source>Verify a message to ensure it was signed with a specified sherlockholmescoin address</source>
+        <translation>Ověř zprávu, aby ses ujistil, že byla podepsána danou sherlockholmescoinovou adresou</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -122,8 +122,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your SherlockHolmesCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Tohle jsou tvé SherlockHolmesCoinové adresy pro posílání plateb. Před odesláním mincí si vždy zkontroluj částku a cílovou adresu.</translation>
+        <source>These are your sherlockholmescoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Tohle jsou tvé sherlockholmescoinové adresy pro posílání plateb. Před odesláním mincí si vždy zkontroluj částku a cílovou adresu.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -248,8 +248,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="+1"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR SherlockHolmesCoinS&lt;/b&gt;!</source>
-        <translation>Varování: Pokud si zašifruješ peněženku a ztratíš či zapomeneš heslo, &lt;b&gt;PŘIJDEŠ O VŠECHNY SherlockHolmesCoinY&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR sherlockholmescoinS&lt;/b&gt;!</source>
+        <translation>Varování: Pokud si zašifruješ peněženku a ztratíš či zapomeneš heslo, &lt;b&gt;PŘIJDEŠ O VŠECHNY sherlockholmescoinY&lt;/b&gt;!</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -275,8 +275,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="-56"/>
-        <source>SherlockHolmesCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your SherlockHolmesCoins from being stolen by malware infecting your computer.</source>
-        <translation>SherlockHolmesCoin se teď ukončí, aby dokončil zašifrování. Pamatuj však, že pouhé zašifrování peněženky úplně nezabraňuje krádeži tvých SherlockHolmesCoinů malwarem, kterým se může počítač nakazit.</translation>
+        <source>sherlockholmescoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your sherlockholmescoins from being stolen by malware infecting your computer.</source>
+        <translation>sherlockholmescoin se teď ukončí, aby dokončil zašifrování. Pamatuj však, že pouhé zašifrování peněženky úplně nezabraňuje krádeži tvých sherlockholmescoinů malwarem, kterým se může počítač nakazit.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -321,9 +321,9 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
 </context>
 <context>
-    <name>BitcoinGUI</name>
+    <name>sherlockholmescoinGUI</name>
     <message>
-        <location filename="../bitcoingui.cpp" line="+233"/>
+        <location filename="../sherlockholmescoingui.cpp" line="+233"/>
         <source>Sign &amp;message...</source>
         <translation>Po&amp;depiš zprávu...</translation>
     </message>
@@ -374,8 +374,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about SherlockHolmesCoin</source>
-        <translation>Zobraz informace o SherlockHolmesCoinu</translation>
+        <source>Show information about sherlockholmescoin</source>
+        <translation>Zobraz informace o sherlockholmescoinu</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -419,13 +419,13 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a SherlockHolmesCoin address</source>
-        <translation>Pošli mince na SherlockHolmesCoinovou adresu</translation>
+        <source>Send coins to a sherlockholmescoin address</source>
+        <translation>Pošli mince na sherlockholmescoinovou adresu</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for SherlockHolmesCoin</source>
-        <translation>Uprav nastavení SherlockHolmesCoinu</translation>
+        <source>Modify configuration options for sherlockholmescoin</source>
+        <translation>Uprav nastavení sherlockholmescoinu</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -455,8 +455,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>SherlockHolmesCoin</source>
-        <translation>SherlockHolmesCoin</translation>
+        <source>sherlockholmescoin</source>
+        <translation>sherlockholmescoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -480,8 +480,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About SherlockHolmesCoin</source>
-        <translation>O &amp;SherlockHolmesCoinu</translation>
+        <source>&amp;About sherlockholmescoin</source>
+        <translation>O &amp;sherlockholmescoinu</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your SherlockHolmesCoin addresses to prove you own them</source>
-        <translation>Podepiš zprávy svými SherlockHolmesCoinovými adresami, čímž prokážeš, že jsi jejich vlastníkem</translation>
+        <source>Sign messages with your sherlockholmescoin addresses to prove you own them</source>
+        <translation>Podepiš zprávy svými sherlockholmescoinovými adresami, čímž prokážeš, že jsi jejich vlastníkem</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified SherlockHolmesCoin addresses</source>
-        <translation>Ověř zprávy, aby ses ujistil, že byly podepsány danými SherlockHolmesCoinovými adresami</translation>
+        <source>Verify messages to ensure they were signed with specified sherlockholmescoin addresses</source>
+        <translation>Ověř zprávy, aby ses ujistil, že byly podepsány danými sherlockholmescoinovými adresami</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -536,13 +536,13 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="+47"/>
-        <source>SherlockHolmesCoin client</source>
-        <translation>SherlockHolmesCoin klient</translation>
+        <source>sherlockholmescoin client</source>
+        <translation>sherlockholmescoin klient</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to SherlockHolmesCoin network</source>
-        <translation><numerusform>%n aktivní spojení do SherlockHolmesCoinové sítě</numerusform><numerusform>%n aktivní spojení do SherlockHolmesCoinové sítě</numerusform><numerusform>%n aktivních spojení do SherlockHolmesCoinové sítě</numerusform></translation>
+        <source>%n active connection(s) to sherlockholmescoin network</source>
+        <translation><numerusform>%n aktivní spojení do sherlockholmescoinové sítě</numerusform><numerusform>%n aktivní spojení do sherlockholmescoinové sítě</numerusform><numerusform>%n aktivních spojení do sherlockholmescoinové sítě</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -656,8 +656,8 @@ Adresa: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid SherlockHolmesCoin address or malformed URI parameters.</source>
-        <translation>Nepodařilo se analyzovat URI! Důvodem může být neplatná SherlockHolmesCoinová adresa nebo poškozené parametry URI.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid sherlockholmescoin address or malformed URI parameters.</source>
+        <translation>Nepodařilo se analyzovat URI! Důvodem může být neplatná sherlockholmescoinová adresa nebo poškozené parametry URI.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -670,9 +670,9 @@ Adresa: %4
         <translation>Peněženka je &lt;b&gt;zašifrovaná&lt;/b&gt; a momentálně &lt;b&gt;zamčená&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. SherlockHolmesCoin can no longer continue safely and will quit.</source>
-        <translation>Stala se fatální chyba. SherlockHolmesCoin nemůže bezpečně pokračovat v činnosti, a proto skončí.</translation>
+        <location filename="../sherlockholmescoin.cpp" line="+111"/>
+        <source>A fatal error occurred. sherlockholmescoin can no longer continue safely and will quit.</source>
+        <translation>Stala se fatální chyba. sherlockholmescoin nemůže bezpečně pokračovat v činnosti, a proto skončí.</translation>
     </message>
 </context>
 <context>
@@ -737,8 +737,8 @@ Adresa: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid SherlockHolmesCoin address.</source>
-        <translation>Zadaná adresa &quot;%1&quot; není platná SherlockHolmesCoinová adresa.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid sherlockholmescoin address.</source>
+        <translation>Zadaná adresa &quot;%1&quot; není platná sherlockholmescoinová adresa.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -756,8 +756,8 @@ Adresa: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>SherlockHolmesCoin-Qt</source>
-        <translation>SherlockHolmesCoin-Qt</translation>
+        <source>sherlockholmescoin-Qt</source>
+        <translation>sherlockholmescoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -819,13 +819,13 @@ Adresa: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start SherlockHolmesCoin after logging in to the system.</source>
-        <translation>Automaticky spustí SherlockHolmesCoin po přihlášení do systému.</translation>
+        <source>Automatically start sherlockholmescoin after logging in to the system.</source>
+        <translation>Automaticky spustí sherlockholmescoin po přihlášení do systému.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start SherlockHolmesCoin on system login</source>
-        <translation>S&amp;pustit SherlockHolmesCoin po přihlášení do systému</translation>
+        <source>&amp;Start sherlockholmescoin on system login</source>
+        <translation>S&amp;pustit sherlockholmescoin po přihlášení do systému</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -844,7 +844,7 @@ Adresa: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the SherlockHolmesCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the sherlockholmescoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation>Automaticky otevře potřebný port na routeru. Tohle funguje jen za předpokladu, že tvůj router podporuje UPnP a že je UPnP povolené.</translation>
     </message>
     <message>
@@ -854,8 +854,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the SherlockHolmesCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Připojí se do SherlockHolmesCoinové sítě přes SOCKS proxy (např. když se připojuje přes Tor).</translation>
+        <source>Connect to the sherlockholmescoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Připojí se do sherlockholmescoinové sítě přes SOCKS proxy (např. když se připojuje přes Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -929,8 +929,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting SherlockHolmesCoin.</source>
-        <translation>Tady lze nastavit jazyk uživatelského rozhraní. Nastavení se projeví až po restartování SherlockHolmesCoinu.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting sherlockholmescoin.</source>
+        <translation>Tady lze nastavit jazyk uživatelského rozhraní. Nastavení se projeví až po restartování sherlockholmescoinu.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -944,8 +944,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show SherlockHolmesCoin addresses in the transaction list or not.</source>
-        <translation>Zda ukazovat SherlockHolmesCoinové adresy ve výpisu transakcí nebo ne.</translation>
+        <source>Whether to show sherlockholmescoin addresses in the transaction list or not.</source>
+        <translation>Zda ukazovat sherlockholmescoinové adresy ve výpisu transakcí nebo ne.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -996,8 +996,8 @@ Adresa: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting SherlockHolmesCoin.</source>
-        <translation>Nastavení se projeví až po restartování SherlockHolmesCoinu.</translation>
+        <source>This setting will take effect after restarting sherlockholmescoin.</source>
+        <translation>Nastavení se projeví až po restartování sherlockholmescoinu.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1015,8 +1015,8 @@ Adresa: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the SherlockHolmesCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Zobrazené informace nemusí být aktuální. Tvá peněženka se automaticky sesynchronizuje s SherlockHolmesCoinovou sítí, jakmile se s ní spojí. Zatím ale ještě není synchronizace dokončena.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the sherlockholmescoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Zobrazené informace nemusí být aktuální. Tvá peněženka se automaticky sesynchronizuje s sherlockholmescoinovou sítí, jakmile se s ní spojí. Zatím ale ještě není synchronizace dokončena.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1069,8 +1069,8 @@ Adresa: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start SherlockHolmesCoin: click-to-pay handler</source>
-        <translation>Nemůžu spustit SherlockHolmesCoin: obsluha click-to-pay</translation>
+        <source>Cannot start sherlockholmescoin: click-to-pay handler</source>
+        <translation>Nemůžu spustit sherlockholmescoin: obsluha click-to-pay</translation>
     </message>
 </context>
 <context>
@@ -1219,8 +1219,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the SherlockHolmesCoin-Qt help message to get a list with possible SherlockHolmesCoin command-line options.</source>
-        <translation>Seznam parametrů SherlockHolmesCoinu pro příkazovou řádku získáš v nápovědě SherlockHolmesCoinu Qt.</translation>
+        <source>Show the sherlockholmescoin-Qt help message to get a list with possible sherlockholmescoin command-line options.</source>
+        <translation>Seznam parametrů sherlockholmescoinu pro příkazovou řádku získáš v nápovědě sherlockholmescoinu Qt.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1239,13 +1239,13 @@ Adresa: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>SherlockHolmesCoin - Debug window</source>
-        <translation>SherlockHolmesCoin - ladicí okno</translation>
+        <source>sherlockholmescoin - Debug window</source>
+        <translation>sherlockholmescoin - ladicí okno</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>SherlockHolmesCoin Core</source>
-        <translation>Jádro SherlockHolmesCoinu</translation>
+        <source>sherlockholmescoin Core</source>
+        <translation>Jádro sherlockholmescoinu</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1254,8 +1254,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the SherlockHolmesCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Otevři soubor s ladicími záznamy SherlockHolmesCoinu z aktuálního datového adresáře. U velkých logů to může pár vteřin zabrat.</translation>
+        <source>Open the sherlockholmescoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Otevři soubor s ladicími záznamy sherlockholmescoinu z aktuálního datového adresáře. U velkých logů to může pár vteřin zabrat.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1264,8 +1264,8 @@ Adresa: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the SherlockHolmesCoin RPC console.</source>
-        <translation>Vítej v SherlockHolmesCoinové RPC konzoli.</translation>
+        <source>Welcome to the sherlockholmescoin RPC console.</source>
+        <translation>Vítej v sherlockholmescoinové RPC konzoli.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1448,8 +1448,8 @@ Adresa: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a SherlockHolmesCoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Zadej SherlockHolmesCoinovou adresu (např. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a sherlockholmescoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Zadej sherlockholmescoinovou adresu (např. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1513,8 +1513,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this SherlockHolmesCoin address</source>
-        <translation>Podepiš zprávu, čímž prokážeš, že jsi vlastníkem této SherlockHolmesCoinové adresy</translation>
+        <source>Sign the message to prove you own this sherlockholmescoin address</source>
+        <translation>Podepiš zprávu, čímž prokážeš, že jsi vlastníkem této sherlockholmescoinové adresy</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1549,8 +1549,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified SherlockHolmesCoin address</source>
-        <translation>Ověř zprávu, aby ses ujistil, že byla podepsána danou SherlockHolmesCoinovou adresou</translation>
+        <source>Verify the message to ensure it was signed with the specified sherlockholmescoin address</source>
+        <translation>Ověř zprávu, aby ses ujistil, že byla podepsána danou sherlockholmescoinovou adresou</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1565,8 +1565,8 @@ Adresa: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a SherlockHolmesCoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Zadej SherlockHolmesCoinovou adresu (např. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a sherlockholmescoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Zadej sherlockholmescoinovou adresu (např. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1575,8 +1575,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter SherlockHolmesCoin signature</source>
-        <translation>Vlož SherlockHolmesCoinový podpis</translation>
+        <source>Enter sherlockholmescoin signature</source>
+        <translation>Vlož sherlockholmescoinový podpis</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1649,8 +1649,8 @@ Adresa: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The SherlockHolmesCoin developers</source>
-        <translation>Vývojáři SherlockHolmesCoinu</translation>
+        <source>The sherlockholmescoin developers</source>
+        <translation>Vývojáři sherlockholmescoinu</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2184,11 +2184,11 @@ Adresa: %4
     </message>
 </context>
 <context>
-    <name>bitcoin-core</name>
+    <name>sherlockholmescoin-core</name>
     <message>
-        <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>SherlockHolmesCoin version</source>
-        <translation>Verze SherlockHolmesCoinu</translation>
+        <location filename="../sherlockholmescoinstrings.cpp" line="+94"/>
+        <source>sherlockholmescoin version</source>
+        <translation>Verze sherlockholmescoinu</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2197,8 +2197,8 @@ Adresa: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or SherlockHolmesCoind</source>
-        <translation>Poslat příkaz pro -server nebo SherlockHolmesCoind</translation>
+        <source>Send command to -server or sherlockholmescoind</source>
+        <translation>Poslat příkaz pro -server nebo sherlockholmescoind</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2217,13 +2217,13 @@ Adresa: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: SherlockHolmesCoin.conf)</source>
-        <translation>Konfigurační soubor (výchozí: SherlockHolmesCoin.conf)</translation>
+        <source>Specify configuration file (default: sherlockholmescoin.conf)</source>
+        <translation>Konfigurační soubor (výchozí: sherlockholmescoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: SherlockHolmesCoind.pid)</source>
-        <translation>PID soubor (výchozí: SherlockHolmesCoind.pid)</translation>
+        <source>Specify pid file (default: sherlockholmescoind.pid)</source>
+        <translation>PID soubor (výchozí: sherlockholmescoind.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2300,24 +2300,24 @@ Adresa: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=SherlockHolmesCoinrpc
+rpcuser=sherlockholmescoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;SherlockHolmesCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;sherlockholmescoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, musíš nastavit rpcpassword v konfiguračním souboru:
 %s
 Je vhodné použít následující náhodné heslo:
-rpcuser=SherlockHolmesCoinrpc
+rpcuser=sherlockholmescoinrpc
 rpcpassword=%s
 (není potřeba si ho pamatovat)
 rpcuser a rpcpassword NESMÍ být stejné.
 Pokud konfigurační soubor ještě neexistuje, vytvoř ho tak, aby ho mohl číst pouze vlastník.
 Je také doporučeno si nastavit alertnotify, abys byl upozorněn na případné problémy;
-například: alertnotify=echo %%s | mail -s &quot;SherlockHolmesCoin Alert&quot; admin@foo.com
+například: alertnotify=echo %%s | mail -s &quot;sherlockholmescoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2332,8 +2332,8 @@ například: alertnotify=echo %%s | mail -s &quot;SherlockHolmesCoin Alert&quot;
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. SherlockHolmesCoin is probably already running.</source>
-        <translation>Nedaří se mi získat zámek na datový adresář %s. SherlockHolmesCoin pravděpodobně už jednou běží.</translation>
+        <source>Cannot obtain a lock on data directory %s. sherlockholmescoin is probably already running.</source>
+        <translation>Nedaří se mi získat zámek na datový adresář %s. sherlockholmescoin pravděpodobně už jednou běží.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2377,8 +2377,8 @@ například: alertnotify=echo %%s | mail -s &quot;SherlockHolmesCoin Alert&quot;
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong SherlockHolmesCoin will not work properly.</source>
-        <translation>Upozornění: Zkontroluj, že máš v počítači správně nastavený datum a čas! Pokud jsou nastaveny špatně, SherlockHolmesCoin nebude fungovat správně.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong sherlockholmescoin will not work properly.</source>
+        <translation>Upozornění: Zkontroluj, že máš v počítači správně nastavený datum a čas! Pokud jsou nastaveny špatně, sherlockholmescoin nebude fungovat správně.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2627,8 +2627,8 @@ například: alertnotify=echo %%s | mail -s &quot;SherlockHolmesCoin Alert&quot;
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the SherlockHolmesCoin Wiki for SSL setup instructions)</source>
-        <translation>Možnosti SSL: (viz instrukce nastavení SSL v SherlockHolmesCoin Wiki)</translation>
+        <source>SSL options: (see the sherlockholmescoin Wiki for SSL setup instructions)</source>
+        <translation>Možnosti SSL: (viz instrukce nastavení SSL v sherlockholmescoin Wiki)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2817,13 +2817,13 @@ například: alertnotify=echo %%s | mail -s &quot;SherlockHolmesCoin Alert&quot;
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of SherlockHolmesCoin</source>
-        <translation>Chyba při načítání wallet.dat: peněženka vyžaduje novější verzi SherlockHolmesCoinu</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of sherlockholmescoin</source>
+        <translation>Chyba při načítání wallet.dat: peněženka vyžaduje novější verzi sherlockholmescoinu</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart SherlockHolmesCoin to complete</source>
-        <translation>Soubor s peněženkou potřeboval přepsat: restartuj SherlockHolmesCoin, aby se operace dokončila</translation>
+        <source>Wallet needed to be rewritten: restart sherlockholmescoin to complete</source>
+        <translation>Soubor s peněženkou potřeboval přepsat: restartuj sherlockholmescoin, aby se operace dokončila</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2882,8 +2882,8 @@ například: alertnotify=echo %%s | mail -s &quot;SherlockHolmesCoin Alert&quot;
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. SherlockHolmesCoin is probably already running.</source>
-        <translation>Nedaří se mi připojit na %s na tomhle počítači. SherlockHolmesCoin už pravděpodobně jednou běží.</translation>
+        <source>Unable to bind to %s on this computer. sherlockholmescoin is probably already running.</source>
+        <translation>Nedaří se mi připojit na %s na tomhle počítači. sherlockholmescoin už pravděpodobně jednou běží.</translation>
     </message>
     <message>
         <location line="+64"/>

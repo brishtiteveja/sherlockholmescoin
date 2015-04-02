@@ -1,25 +1,25 @@
-// Copyright (c) 2011-2013 The Bitcoin developers
+// Copyright (c) 2011-2013 The sherlockholmescoin developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef BITCOINUNITS_H
-#define BITCOINUNITS_H
+#ifndef sherlockholmescoinUNITS_H
+#define sherlockholmescoinUNITS_H
 
 #include <QString>
 #include <QAbstractListModel>
 
-/** Bitcoin unit definitions. Encapsulates parsing and formatting
+/** sherlockholmescoin unit definitions. Encapsulates parsing and formatting
    and serves as list model for drop-down selection boxes.
 */
-class BitcoinUnits: public QAbstractListModel
+class sherlockholmescoinUnits: public QAbstractListModel
 {
     Q_OBJECT
 
 public:
-    explicit BitcoinUnits(QObject *parent);
+    explicit sherlockholmescoinUnits(QObject *parent);
 
-    /** Bitcoin units.
-      @note Source: https://en.bitcoin.it/wiki/Units . Please add only sensible ones
+    /** sherlockholmescoin units.
+      @note Source: https://en.sherlockholmescoin.it/wiki/Units . Please add only sensible ones
      */
     enum Unit
     {
@@ -66,8 +66,8 @@ public:
     ///@}
 
 private:
-    QList<BitcoinUnits::Unit> unitlist;
+    QList<sherlockholmescoinUnits::Unit> unitlist;
 };
-typedef BitcoinUnits::Unit BitcoinUnit;
+typedef sherlockholmescoinUnits::Unit sherlockholmescoinUnit;
 
-#endif // BITCOINUNITS_H
+#endif // sherlockholmescoinUNITS_H

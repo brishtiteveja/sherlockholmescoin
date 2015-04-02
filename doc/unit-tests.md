@@ -1,34 +1,34 @@
-Compiling/running SherlockHolmesCoinHolmesCoind unit tests
-----------------------------SherlockHolmesCoin
+Compiling/running sherlockholmescoinHolmesCoind unit tests
+----------------------------sherlockholmescoin
 
-SherlockHolmesCoind unit tests are in the `src/test/` directory; they
+sherlockholmescoind unit tests are in the `src/test/` directory; they
 use the Boost::Test unit-testing framework.
 
 To compile and run the tests:
 
 	cd src
-	make -fSherlockHolmesCoine.unix test_SherlockHolmesCoin  # Replace makefile.unix SherlockHolmesCoine not on unix
-	./test_SherlockHolmesCoin   # Runs the unit tests
+	make -fsherlockholmescoine.unix test_sherlockholmescoin  # Replace makefile.unix sherlockholmescoine not on unix
+	./test_sherlockholmescoin   # Runs the unit tests
 
 If all tests succeed the last line of output will be:
 `*** No errors detected`
 
 To add more tests, add `BOOST_AUTO_TEST_CASE` functions to the existing
 .cpp files in the test/ directory or add new .cpp files that
-implement new BOOST_AUTO_TEST_SUITE sections (the makefilSherlockHolmesCoinet up to add test/*.cpp to test_SherlSherlockHolmesCoinsCoin automatically).
+implement new BOOST_AUTO_TEST_SUITE sections (the makefilsherlockholmescoinet up to add test/*.cpp to test_SherlsherlockholmescoinsCoin automatically).
 
 
-Compiling/running SherlockHolmesCoin-Qt unit tests
+Compiling/running sherlockholmescoin-Qt unit tests
 ---------------------------------------
 
-Bitcoin-Qt unit tests are in the src/qt/test/ directory; they
+sherlockholmescoin-Qt unit tests are in the src/qt/test/ directory; they
 use the Qt unit-testing framework.
 
-To compile and run tSherlockHolmesCoin:
+To compile and run tsherlockholmescoin:
 
-	qmake bitcoin-qt.pro BITCOIN_QT_TEST=1
+	qmake sherlockholmescoin-qt.pro sherlockholmescoin_QT_TEST=1
 	make
-	./SherlockHolmesCoin-qt_test
+	./sherlockholmescoin-qt_test
 
 To add more tests, add them to the `src/qt/test/` directory,
-the `src/qt/test/test_main.cpp` file, and bitcoin-qt.pro.
+the `src/qt/test/test_main.cpp` file, and sherlockholmescoin-qt.pro.

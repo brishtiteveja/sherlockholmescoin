@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About SherlockHolmesCoin</source>
-        <translation>Acerca de SherlockHolmesCoin</translation>
+        <source>About sherlockholmescoin</source>
+        <translation>Acerca de sherlockholmescoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;SherlockHolmesCoin&lt;/b&gt; version</source>
-        <translation>Versión de &lt;b&gt;SherlockHolmesCoin&lt;/b&gt;</translation>
+        <source>&lt;b&gt;sherlockholmescoin&lt;/b&gt; version</source>
+        <translation>Versión de &lt;b&gt;sherlockholmescoin&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -37,8 +37,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="+0"/>
-        <source>The SherlockHolmesCoin developers</source>
-        <translation>Los programadores SherlockHolmesCoin</translation>
+        <source>The sherlockholmescoin developers</source>
+        <translation>Los programadores sherlockholmescoin</translation>
     </message>
 </context>
 <context>
@@ -70,8 +70,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your SherlockHolmesCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Estas son sus direcciones SherlockHolmesCoin para recibir pagos. Puede utilizar una diferente por cada persona emisora para saber quién le está pagando.</translation>
+        <source>These are your sherlockholmescoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Estas son sus direcciones sherlockholmescoin para recibir pagos. Puede utilizar una diferente por cada persona emisora para saber quién le está pagando.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -85,8 +85,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a SherlockHolmesCoin address</source>
-        <translation>Firmar un mensaje para demostrar que se posee una dirección SherlockHolmesCoin</translation>
+        <source>Sign a message to prove you own a sherlockholmescoin address</source>
+        <translation>Firmar un mensaje para demostrar que se posee una dirección sherlockholmescoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -110,8 +110,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified SherlockHolmesCoin address</source>
-        <translation>Verificar un mensaje para comprobar que fue firmado con la dirección SherlockHolmesCoin indicada</translation>
+        <source>Verify a message to ensure it was signed with a specified sherlockholmescoin address</source>
+        <translation>Verificar un mensaje para comprobar que fue firmado con la dirección sherlockholmescoin indicada</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -125,8 +125,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your SherlockHolmesCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Estas son sus direcciones SherlockHolmesCoin para enviar pagos. Compruebe siempre la cantidad y la dirección receptora antes de transferir monedas.</translation>
+        <source>These are your sherlockholmescoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Estas son sus direcciones sherlockholmescoin para enviar pagos. Compruebe siempre la cantidad y la dirección receptora antes de transferir monedas.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -251,8 +251,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="+1"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR SherlockHolmesCoinS&lt;/b&gt;!</source>
-        <translation>Atencion: ¡Si cifra su monedero y pierde la contraseña perderá &lt;b&gt;TODOS SUS SherlockHolmesCoinS&lt;/b&gt;!&quot;</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR sherlockholmescoinS&lt;/b&gt;!</source>
+        <translation>Atencion: ¡Si cifra su monedero y pierde la contraseña perderá &lt;b&gt;TODOS SUS sherlockholmescoinS&lt;/b&gt;!&quot;</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -278,8 +278,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-56"/>
-        <source>SherlockHolmesCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your SherlockHolmesCoins from being stolen by malware infecting your computer.</source>
-        <translation>SherlockHolmesCoin se cerrará para finalizar el proceso de cifrado. Recuerde que el cifrado de su monedero no puede proteger totalmente sus SherlockHolmesCoins de robo por malware que infecte su sistema.</translation>
+        <source>sherlockholmescoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your sherlockholmescoins from being stolen by malware infecting your computer.</source>
+        <translation>sherlockholmescoin se cerrará para finalizar el proceso de cifrado. Recuerde que el cifrado de su monedero no puede proteger totalmente sus sherlockholmescoins de robo por malware que infecte su sistema.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -324,9 +324,9 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
 </context>
 <context>
-    <name>BitcoinGUI</name>
+    <name>sherlockholmescoinGUI</name>
     <message>
-        <location filename="../bitcoingui.cpp" line="+233"/>
+        <location filename="../sherlockholmescoingui.cpp" line="+233"/>
         <source>Sign &amp;message...</source>
         <translation>Firmar &amp;mensaje...</translation>
     </message>
@@ -377,8 +377,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about SherlockHolmesCoin</source>
-        <translation>Mostrar información acerca de SherlockHolmesCoin</translation>
+        <source>Show information about sherlockholmescoin</source>
+        <translation>Mostrar información acerca de sherlockholmescoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -422,13 +422,13 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a SherlockHolmesCoin address</source>
-        <translation>Enviar monedas a una dirección SherlockHolmesCoin</translation>
+        <source>Send coins to a sherlockholmescoin address</source>
+        <translation>Enviar monedas a una dirección sherlockholmescoin</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for SherlockHolmesCoin</source>
-        <translation>Modificar las opciones de configuración de SherlockHolmesCoin</translation>
+        <source>Modify configuration options for sherlockholmescoin</source>
+        <translation>Modificar las opciones de configuración de sherlockholmescoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -458,8 +458,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>SherlockHolmesCoin</source>
-        <translation>SherlockHolmesCoin</translation>
+        <source>sherlockholmescoin</source>
+        <translation>sherlockholmescoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -483,8 +483,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About SherlockHolmesCoin</source>
-        <translation>&amp;Acerca de SherlockHolmesCoin</translation>
+        <source>&amp;About sherlockholmescoin</source>
+        <translation>&amp;Acerca de sherlockholmescoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -503,13 +503,13 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your SherlockHolmesCoin addresses to prove you own them</source>
-        <translation>Firmar mensajes con sus direcciones SherlockHolmesCoin para demostrar la propiedad</translation>
+        <source>Sign messages with your sherlockholmescoin addresses to prove you own them</source>
+        <translation>Firmar mensajes con sus direcciones sherlockholmescoin para demostrar la propiedad</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified SherlockHolmesCoin addresses</source>
-        <translation>Verificar mensajes comprobando que están firmados con direcciones SherlockHolmesCoin concretas</translation>
+        <source>Verify messages to ensure they were signed with specified sherlockholmescoin addresses</source>
+        <translation>Verificar mensajes comprobando que están firmados con direcciones sherlockholmescoin concretas</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -539,13 +539,13 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="+47"/>
-        <source>SherlockHolmesCoin client</source>
-        <translation>Cliente SherlockHolmesCoin</translation>
+        <source>sherlockholmescoin client</source>
+        <translation>Cliente sherlockholmescoin</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to SherlockHolmesCoin network</source>
-        <translation><numerusform>%n conexión activa hacia la red SherlockHolmesCoin</numerusform><numerusform>%n conexiones activas hacia la red SherlockHolmesCoin</numerusform></translation>
+        <source>%n active connection(s) to sherlockholmescoin network</source>
+        <translation><numerusform>%n conexión activa hacia la red sherlockholmescoin</numerusform><numerusform>%n conexiones activas hacia la red sherlockholmescoin</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -659,8 +659,8 @@ Dirección: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid SherlockHolmesCoin address or malformed URI parameters.</source>
-        <translation>¡No se puede interpretar la URI! Esto puede deberse a una dirección SherlockHolmesCoin inválida o a parámetros de URI mal formados.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid sherlockholmescoin address or malformed URI parameters.</source>
+        <translation>¡No se puede interpretar la URI! Esto puede deberse a una dirección sherlockholmescoin inválida o a parámetros de URI mal formados.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -673,9 +673,9 @@ Dirección: %4
         <translation>El monedero está &lt;b&gt;cifrado&lt;/b&gt; y actualmente &lt;b&gt;bloqueado&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. SherlockHolmesCoin can no longer continue safely and will quit.</source>
-        <translation>Ha ocurrido un error crítico. SherlockHolmesCoin ya no puede continuar con seguridad y se cerrará.</translation>
+        <location filename="../sherlockholmescoin.cpp" line="+111"/>
+        <source>A fatal error occurred. sherlockholmescoin can no longer continue safely and will quit.</source>
+        <translation>Ha ocurrido un error crítico. sherlockholmescoin ya no puede continuar con seguridad y se cerrará.</translation>
     </message>
 </context>
 <context>
@@ -740,8 +740,8 @@ Dirección: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid SherlockHolmesCoin address.</source>
-        <translation>La dirección introducida &quot;%1&quot; no es una dirección SherlockHolmesCoin válida.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid sherlockholmescoin address.</source>
+        <translation>La dirección introducida &quot;%1&quot; no es una dirección sherlockholmescoin válida.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -759,8 +759,8 @@ Dirección: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>SherlockHolmesCoin-Qt</source>
-        <translation>SherlockHolmesCoin-Qt</translation>
+        <source>sherlockholmescoin-Qt</source>
+        <translation>sherlockholmescoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -822,13 +822,13 @@ Dirección: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start SherlockHolmesCoin after logging in to the system.</source>
-        <translation>Iniciar SherlockHolmesCoin automáticamente al encender el sistema.</translation>
+        <source>Automatically start sherlockholmescoin after logging in to the system.</source>
+        <translation>Iniciar sherlockholmescoin automáticamente al encender el sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start SherlockHolmesCoin on system login</source>
-        <translation>&amp;Iniciar SherlockHolmesCoin al iniciar el sistema</translation>
+        <source>&amp;Start sherlockholmescoin on system login</source>
+        <translation>&amp;Iniciar sherlockholmescoin al iniciar el sistema</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -847,8 +847,8 @@ Dirección: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the SherlockHolmesCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Abrir automáticamente el puerto del cliente SherlockHolmesCoin en el router. Esta opción solo funciona si el router admite UPnP y está activado.</translation>
+        <source>Automatically open the sherlockholmescoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Abrir automáticamente el puerto del cliente sherlockholmescoin en el router. Esta opción solo funciona si el router admite UPnP y está activado.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -857,8 +857,8 @@ Dirección: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the SherlockHolmesCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Conectar a la red SherlockHolmesCoin a través de un proxy SOCKS (ej. para conectar con la red Tor)</translation>
+        <source>Connect to the sherlockholmescoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Conectar a la red sherlockholmescoin a través de un proxy SOCKS (ej. para conectar con la red Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -932,8 +932,8 @@ Dirección: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting SherlockHolmesCoin.</source>
-        <translation>El idioma de la interfaz de usuario puede establecerse aquí. Este ajuste se aplicará cuando se reinicie SherlockHolmesCoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting sherlockholmescoin.</source>
+        <translation>El idioma de la interfaz de usuario puede establecerse aquí. Este ajuste se aplicará cuando se reinicie sherlockholmescoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -947,8 +947,8 @@ Dirección: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show SherlockHolmesCoin addresses in the transaction list or not.</source>
-        <translation>Mostrar o no las direcciones SherlockHolmesCoin en la lista de transacciones.</translation>
+        <source>Whether to show sherlockholmescoin addresses in the transaction list or not.</source>
+        <translation>Mostrar o no las direcciones sherlockholmescoin en la lista de transacciones.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -999,8 +999,8 @@ Dirección: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting SherlockHolmesCoin.</source>
-        <translation>Esta configuración tendrá efecto tras reiniciar SherlockHolmesCoin.</translation>
+        <source>This setting will take effect after restarting sherlockholmescoin.</source>
+        <translation>Esta configuración tendrá efecto tras reiniciar sherlockholmescoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1018,8 +1018,8 @@ Dirección: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the SherlockHolmesCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>La información mostrada puede estar desactualizada. Su monedero se sincroniza automáticamente con la red SherlockHolmesCoin después de que se haya establecido una conexión , pero este proceso aún no se ha completado.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the sherlockholmescoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>La información mostrada puede estar desactualizada. Su monedero se sincroniza automáticamente con la red sherlockholmescoin después de que se haya establecido una conexión , pero este proceso aún no se ha completado.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1072,8 +1072,8 @@ Dirección: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start SherlockHolmesCoin: click-to-pay handler</source>
-        <translation>No se pudo iniciar SherlockHolmesCoin: manejador de pago-al-clic</translation>
+        <source>Cannot start sherlockholmescoin: click-to-pay handler</source>
+        <translation>No se pudo iniciar sherlockholmescoin: manejador de pago-al-clic</translation>
     </message>
 </context>
 <context>
@@ -1222,8 +1222,8 @@ Dirección: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the SherlockHolmesCoin-Qt help message to get a list with possible SherlockHolmesCoin command-line options.</source>
-        <translation>Mostrar el mensaje de ayuda de SherlockHolmesCoin-Qt que enumera las opciones disponibles de línea de órdenes para SherlockHolmesCoin.</translation>
+        <source>Show the sherlockholmescoin-Qt help message to get a list with possible sherlockholmescoin command-line options.</source>
+        <translation>Mostrar el mensaje de ayuda de sherlockholmescoin-Qt que enumera las opciones disponibles de línea de órdenes para sherlockholmescoin.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1242,13 +1242,13 @@ Dirección: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>SherlockHolmesCoin - Debug window</source>
-        <translation>SherlockHolmesCoin - Ventana de depuración</translation>
+        <source>sherlockholmescoin - Debug window</source>
+        <translation>sherlockholmescoin - Ventana de depuración</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>SherlockHolmesCoin Core</source>
-        <translation>Núcleo de SherlockHolmesCoin</translation>
+        <source>sherlockholmescoin Core</source>
+        <translation>Núcleo de sherlockholmescoin</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1257,7 +1257,7 @@ Dirección: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the SherlockHolmesCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the sherlockholmescoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation>Abrir el archivo de registro de depuración en el directorio actual de datos. Esto puede llevar varios segundos para archivos de registro grandes.</translation>
     </message>
     <message>
@@ -1267,8 +1267,8 @@ Dirección: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the SherlockHolmesCoin RPC console.</source>
-        <translation>Bienvenido a la consola RPC de SherlockHolmesCoin</translation>
+        <source>Welcome to the sherlockholmescoin RPC console.</source>
+        <translation>Bienvenido a la consola RPC de sherlockholmescoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1451,8 +1451,8 @@ Dirección: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a SherlockHolmesCoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Introduzca una dirección SherlockHolmesCoin (ej. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a sherlockholmescoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Introduzca una dirección sherlockholmescoin (ej. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1516,8 +1516,8 @@ Dirección: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this SherlockHolmesCoin address</source>
-        <translation>Firmar el mensaje para demostrar que se posee esta dirección SherlockHolmesCoin</translation>
+        <source>Sign the message to prove you own this sherlockholmescoin address</source>
+        <translation>Firmar el mensaje para demostrar que se posee esta dirección sherlockholmescoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1552,8 +1552,8 @@ Dirección: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified SherlockHolmesCoin address</source>
-        <translation>Verificar el mensaje para comprobar que fue firmado con la dirección SherlockHolmesCoin indicada</translation>
+        <source>Verify the message to ensure it was signed with the specified sherlockholmescoin address</source>
+        <translation>Verificar el mensaje para comprobar que fue firmado con la dirección sherlockholmescoin indicada</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1568,8 +1568,8 @@ Dirección: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a SherlockHolmesCoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Introduzca una dirección SherlockHolmesCoin (ej. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a sherlockholmescoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Introduzca una dirección sherlockholmescoin (ej. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1578,8 +1578,8 @@ Dirección: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter SherlockHolmesCoin signature</source>
-        <translation>Introduzca una firma SherlockHolmesCoin</translation>
+        <source>Enter sherlockholmescoin signature</source>
+        <translation>Introduzca una firma sherlockholmescoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1652,8 +1652,8 @@ Dirección: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The SherlockHolmesCoin developers</source>
-        <translation>Los programadores SherlockHolmesCoin</translation>
+        <source>The sherlockholmescoin developers</source>
+        <translation>Los programadores sherlockholmescoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2187,11 +2187,11 @@ Dirección: %4
     </message>
 </context>
 <context>
-    <name>bitcoin-core</name>
+    <name>sherlockholmescoin-core</name>
     <message>
-        <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>SherlockHolmesCoin version</source>
-        <translation>Versión de SherlockHolmesCoin</translation>
+        <location filename="../sherlockholmescoinstrings.cpp" line="+94"/>
+        <source>sherlockholmescoin version</source>
+        <translation>Versión de sherlockholmescoin</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2200,8 +2200,8 @@ Dirección: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or SherlockHolmesCoind</source>
-        <translation>Envíar comando a -server o SherlockHolmesCoind</translation>
+        <source>Send command to -server or sherlockholmescoind</source>
+        <translation>Envíar comando a -server o sherlockholmescoind</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2223,14 +2223,14 @@ Dirección: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: SherlockHolmesCoin.conf)</source>
-        <translation>Especificar archivo de configuración (predeterminado: SherlockHolmesCoin.conf)
+        <source>Specify configuration file (default: sherlockholmescoin.conf)</source>
+        <translation>Especificar archivo de configuración (predeterminado: sherlockholmescoin.conf)
 </translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: SherlockHolmesCoind.pid)</source>
-        <translation>Especificar archivo pid (predeterminado: SherlockHolmesCoin.pid)
+        <source>Specify pid file (default: sherlockholmescoind.pid)</source>
+        <translation>Especificar archivo pid (predeterminado: sherlockholmescoin.pid)
 </translation>
     </message>
     <message>
@@ -2311,24 +2311,24 @@ Dirección: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=SherlockHolmesCoinrpc
+rpcuser=sherlockholmescoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;SherlockHolmesCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;sherlockholmescoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, debe establecer un valor rpcpassword en el archivo de configuración:
 %s
 Se recomienda utilizar la siguiente contraseña aleatoria:
-rpcuser=SherlockHolmesCoinrpc
+rpcuser=sherlockholmescoinrpc
 rpcpassword=%s
 (no es necesario recordar esta contraseña)
 El nombre de usuario y la contraseña DEBEN NO ser iguales.
 Si el archivo no existe, créelo con permisos de archivo de solo lectura.
 Se recomienda también establecer alertnotify para recibir notificaciones de problemas.
-Por ejemplo: alertnotify=echo %%s | mail -s &quot;SherlockHolmesCoin Alert&quot; admin@foo.com
+Por ejemplo: alertnotify=echo %%s | mail -s &quot;sherlockholmescoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2343,8 +2343,8 @@ Por ejemplo: alertnotify=echo %%s | mail -s &quot;SherlockHolmesCoin Alert&quot;
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. SherlockHolmesCoin is probably already running.</source>
-        <translation>No se puede bloquear el directorio de datos %s. Probablemente SherlockHolmesCoin ya se está ejecutando.</translation>
+        <source>Cannot obtain a lock on data directory %s. sherlockholmescoin is probably already running.</source>
+        <translation>No se puede bloquear el directorio de datos %s. Probablemente sherlockholmescoin ya se está ejecutando.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2388,8 +2388,8 @@ Por ejemplo: alertnotify=echo %%s | mail -s &quot;SherlockHolmesCoin Alert&quot;
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong SherlockHolmesCoin will not work properly.</source>
-        <translation>Precaución: Por favor, ¡revise que la fecha y hora de su ordenador son correctas! Si su reloj está mal, SherlockHolmesCoin no funcionará correctamente.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong sherlockholmescoin will not work properly.</source>
+        <translation>Precaución: Por favor, ¡revise que la fecha y hora de su ordenador son correctas! Si su reloj está mal, sherlockholmescoin no funcionará correctamente.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2638,8 +2638,8 @@ Por ejemplo: alertnotify=echo %%s | mail -s &quot;SherlockHolmesCoin Alert&quot;
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the SherlockHolmesCoin Wiki for SSL setup instructions)</source>
-        <translation>Opciones SSL: (ver la SherlockHolmesCoin Wiki para instrucciones de configuración SSL)</translation>
+        <source>SSL options: (see the sherlockholmescoin Wiki for SSL setup instructions)</source>
+        <translation>Opciones SSL: (ver la sherlockholmescoin Wiki para instrucciones de configuración SSL)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2838,13 +2838,13 @@ Por ejemplo: alertnotify=echo %%s | mail -s &quot;SherlockHolmesCoin Alert&quot;
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of SherlockHolmesCoin</source>
-        <translation>Error al cargar wallet.dat: El monedero requiere una versión más reciente de SherlockHolmesCoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of sherlockholmescoin</source>
+        <translation>Error al cargar wallet.dat: El monedero requiere una versión más reciente de sherlockholmescoin</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart SherlockHolmesCoin to complete</source>
-        <translation>El monedero ha necesitado ser reescrito. Reinicie SherlockHolmesCoin para completar el proceso</translation>
+        <source>Wallet needed to be rewritten: restart sherlockholmescoin to complete</source>
+        <translation>El monedero ha necesitado ser reescrito. Reinicie sherlockholmescoin para completar el proceso</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2903,8 +2903,8 @@ Por ejemplo: alertnotify=echo %%s | mail -s &quot;SherlockHolmesCoin Alert&quot;
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. SherlockHolmesCoin is probably already running.</source>
-        <translation>No es posible conectar con %s en este sistema. Probablemente SherlockHolmesCoin ya está ejecutándose.</translation>
+        <source>Unable to bind to %s on this computer. sherlockholmescoin is probably already running.</source>
+        <translation>No es posible conectar con %s en este sistema. Probablemente sherlockholmescoin ya está ejecutándose.</translation>
     </message>
     <message>
         <location line="+64"/>

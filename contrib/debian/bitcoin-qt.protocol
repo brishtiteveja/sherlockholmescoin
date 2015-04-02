@@ -1,6 +1,6 @@
 [Protocol]
-exec=bitcoin-qt '%u'
-protocol=bitcoin
+exec=sherlockholmescoin-qt '%u'
+protocol=sherlockholmescoin
 input=none
 output=none
 helper=true

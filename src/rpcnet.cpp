@@ -1,9 +1,9 @@
-// Copyright (c) 2009-2014 Bitcoin Developers
+// Copyright (c) 2009-2014 sherlockholmescoin Developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
 #include "net.h"
-#include "bitcoinrpc.h"
+#include "sherlockholmescoinrpc.h"
 
 using namespace json_spirit;
 using namespace std;

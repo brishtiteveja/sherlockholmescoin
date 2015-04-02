@@ -1,9 +1,9 @@
-Building SherlockHolmesCoin
+Building sherlockholmescoin
 
-See doc/readme-qt.rst for instructions on building SherlockHolmesCoin-Qt,
+See doc/readme-qt.rst for instructions on building sherlockholmescoin-Qt,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of SherlockHolmesCoin.
+implementation of sherlockholmescoin.
 
-See doc/build-*.txt for instructions on building SherlockHolmesCoind,
+See doc/build-*.txt for instructions on building sherlockholmescoind,
 the intended-for-services, no-graphical-interface, reference
-implementation of SherlockHolmesCoin.
+implementation of sherlockholmescoin.

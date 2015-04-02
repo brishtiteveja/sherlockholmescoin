@@ -1,8 +1,8 @@
-SherlockHolmesCoinHolmesCoin 0.8.x BETA
+sherlockholmescoinHolmesCoin 0.8.x BETA
 ====================
 
-Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) SherlockHolmesCoin4 SherlockHolmesCoin Developers
+Copyright (c) 2009-2014 sherlockholmescoin Developers
+Copyright (c) sherlockholmescoin4 sherlockholmescoin Developers
 
 Distributed under the MIT/X11 software license, see the accompanying
 file COPYING or http://www.opensource.org/licenses/mit-license.php.
@@ -11,8 +11,8 @@ cryptographic software written by Eric Young ([eay@cryptsoft.com](mailto:eay@cry
 
 
 Intro
---SherlockHolmesCoin-----------
-SherlockHolmesCoin is a free open source peer-to-peer electronic cash system that is
+--sherlockholmescoin-----------
+sherlockholmescoin is a free open source peer-to-peer electronic cash system that is
 completely decentralized, without the need for a central server or trusted
 parties.  Users hold the crypto keys to their own money and transact directly
 with each other, with the help of a P2P network to check for double-spending.
@@ -20,15 +20,15 @@ with each other, with the help of a P2P network to check for double-spending.
 
 Setup
 ---------------------
-You need the SherlockHolmesCointime libraries to run SherlockHolmesCoin-Qt. On Debian or Ubuntu:
+You need the sherlockholmescointime libraries to run sherlockholmescoin-Qt. On Debian or Ubuntu:
 	`sudo apt-get install libqtgui4`
 
-Unpack the fiSherlockHolmesCoin a directory and run:
+Unpack the fisherlockholmescoin a directory and run:
 
-- biSherlockHolmesCoinrlockHolmesCoin-qt (GUI, 32-biSherlockHolmesCoin/32/SherlockHolmesCoind (heSherlockHolmesCoin32-bit)
-- bin/64/SherlockHolmesCoin-qt (GUI, 64-bit)SherlockHolmesCoin4/SherlockHolmSherlockHolmesCoin(headless, 64-bit)
+- bisherlockholmescoinrlockHolmesCoin-qt (GUI, 32-bisherlockholmescoin/32/sherlockholmescoind (hesherlockholmescoin32-bit)
+- bin/64/sherlockholmescoin-qt (GUI, 64-bit)sherlockholmescoin4/SherlockHolmsherlockholmescoin(headless, 64-bit)
 
-See the documentation at the [SherlockHolmesCoin Wiki](http://SherlockHolmesCoin.info)
+See the documentation at the [sherlockholmescoin Wiki](http://sherlockholmescoin.info)
 for help and more information.
 
 

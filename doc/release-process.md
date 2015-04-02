@@ -6,7 +6,7 @@ Release Process
 ###update (commit) version in sources
 
 
-	bitcoin-qt.pro
+	sherlockholmescoin-qt.pro
 	contrib/verifysfbinaries/verify.sh
 	doc/README*
 	share/setup.nsi
@@ -24,7 +24,7 @@ Release Process
 
 ##perform gitian builds
 
- From a directory containing the SherlockHolmesCoinHolmesCoin source, gitian-builder and gitian.sigs
+ From a directory containing the sherlockholmescoinHolmesCoin source, gitian-builder and gitian.sigs
   
 	export SIGNER=(your gitian key, ie bluematt, sipa, etc)
 	export VERSION=0.8.7
@@ -42,62 +42,62 @@ Release Process
 	wget 'http://downloads.sourceforge.net/project/boost/boost/1.55.0/boost_1_55_0.tar.bz2'
 	wget 'http://download.qt-project.org/official_releases/qt/4.8/4.8.5/qt-everywhere-opensource-src-4.8.5.tar.gz'
 	cd ..
-	./bin/SherlockHolmesCoin./SherlockHolmesCoin/contrib/gitian-descriptors/boost-win32.yml
-	mv build/out/boost-*.zip inputSherlockHolmesCoinn/gbuild ../SherlockHolmesCoin/contrib/gitian-descriptors/deps-win32.yml
-	mv build/out/bitcoin*SherlockHolmesCoinuts/
-	./bin/gbuild ../SherlockHolmesCoin/contrib/gitian-descriptors/qt-win32.ymSherlockHolmesCoinild/ouSherlockHolmesCoinp inputs/
+	./bin/sherlockholmescoin./sherlockholmescoin/contrib/gitian-descriptors/boost-win32.yml
+	mv build/out/boost-*.zip inputsherlockholmescoinn/gbuild ../sherlockholmescoin/contrib/gitian-descriptors/deps-win32.yml
+	mv build/out/sherlockholmescoin*sherlockholmescoinuts/
+	./bin/gbuild ../sherlockholmescoin/contrib/gitian-descriptors/qt-win32.ymsherlockholmescoinild/ousherlockholmescoinp inputs/
 
- Build SherlockHolmesCoind and SherlockHolmesCoin-qSherlockHolmesCoinux32, Linux64, aSherlockHolmesCoin:
+ Build sherlockholmescoind and sherlockholmescoin-qsherlockholmescoinux32, Linux64, asherlockholmescoin:
   
-	./bin/gbuild --commit SherlockHolmesCoin=v${VERSION} ../SherlockHolmesCoin/contrib/gitian-descriptors/gitian.yml
-	./bSherlockHolmesCoin --signer $SIGNER --release ${VERSION} --destination ../gitian.sSherlockHolmesCoinSherlockHolmesCoin/contrib/gSherlockHolmesCoinscriptors/gitian.yml
+	./bin/gbuild --commit sherlockholmescoin=v${VERSION} ../sherlockholmescoin/contrib/gitian-descriptors/gitian.yml
+	./bsherlockholmescoin --signer $SIGNER --release ${VERSION} --destination ../gitian.ssherlockholmescoinsherlockholmescoin/contrib/gsherlockholmescoinscriptors/gitian.yml
 	pushd build/out
-	zip -r SherlockHolmSherlockHolmesCoin{VERSION}-linux.SherlockHolmesCoinv SherlockHolmesCoin-${VERSION}-linux.zip ../../
+	zip -r SherlockHolmsherlockholmescoin{VERSION}-linux.sherlockholmescoinv sherlockholmescoin-${VERSION}-linux.zip ../../
 	popd
-	./bin/gbuild --commit SherlockHolmesCoin=v${VERSION} ../SherlockHolmesCoin/contSherlockHolmesCoinan-descriptors/gitian-win32.yml
-	./bin/gsign --signer $SIGNER --releasSherlockHolmesCoinION}-win32 --destination ../SherlockHolmesCoinigs/ ../SherlockHolmesCoin/contrib/gitian-descriptors/gitian-win32.yml
+	./bin/gbuild --commit sherlockholmescoin=v${VERSION} ../sherlockholmescoin/contsherlockholmescoinan-descriptors/gitian-win32.yml
+	./bin/gsign --signer $SIGNER --releassherlockholmescoinION}-win32 --destination ../sherlockholmescoinigs/ ../sherlockholmescoin/contrib/gitian-descriptors/gitian-win32.yml
 	pushd build/out
-	zip -r SherlockHolmesSherlockHolmesCoinERSION}-win32.zip *
-	mv SherlockHolmesCoin-${VERSION}-win32.zip ../../
+	zip -r SherlockHolmessherlockholmescoinERSION}-win32.zip *
+	mv sherlockholmescoin-${VERSION}-win32.zip ../../
 	popd
 
-SherlockHolmesCoinoutput expected:
+sherlockholmescoinoutput expected:
 
-  1. linux 32-bit and 64-bit binaries + source (SherlockHolmesCoin-${VERSION}-linux-gitian.zip)
-  2. windows 32-bit binary, installer + source (SherlockHolmesCoin-${VERSION}-win32-gitian.zip)SherlockHolmesCointian signatures (in gitian.sigs/SherlockHolmesCoinN}[-win32]/(your gitian key)SherlockHolmesCoinkage gitian builds for reSherlockHolmesCoin stand-alone zip/tar/instaSherlockHolmesCoin
+  1. linux 32-bit and 64-bit binaries + source (sherlockholmescoin-${VERSION}-linux-gitian.zip)
+  2. windows 32-bit binary, installer + source (sherlockholmescoin-${VERSION}-win32-gitian.zip)sherlockholmescointian signatures (in gitian.sigs/sherlockholmescoinN}[-win32]/(your gitian key)sherlockholmescoinkage gitian builds for resherlockholmescoin stand-alone zip/tar/instasherlockholmescoin
 
 **Linux .tar.gz:**
 
-	unzip SherlockHolmesCoin-${VERSION}-SherlockHolmesCointian.zip -d SherlockHolmesCoin-$SherlockHolmesCoin}-linux
-	tar czvf SherSherlockHolmesCoinesCoin-${VERSION}-SherlockHolmesCoinr.gz SherlockHolmesCoinSherlockHolmesCoinON}-linux
-	rm -rf SherlockHolmesCoin-${VERSION}-linux
+	unzip sherlockholmescoin-${VERSION}-sherlockholmescointian.zip -d sherlockholmescoin-$sherlockholmescoin}-linux
+	tar czvf ShersherlockholmescoinesCoin-${VERSION}-sherlockholmescoinr.gz sherlockholmescoinsherlockholmescoinON}-linux
+	rm -rf sherlockholmescoin-${VERSION}-linux
 
-SherlockHolmesCoins .zip and setup.exe:**
+sherlockholmescoins .zip and setup.exe:**
 
-	unzip SherlockHolmesCoin-${VERSION}-win32-gitian.zip -d SherlockHolmesCoin-${VERSION}-winSherlockHolmesCoinherlockHolmesCoin-${VERSION}-win32/SherlockHolmesCoin-*-setup.exe .
-	zip -r SherlockHolmesCoin-${VERSION}-win32.zip bitcoin-${VERSION}-win32
-	rm -rf SherlockHolmesCoin-${VERSION}-win32
+	unzip sherlockholmescoin-${VERSION}-win32-gitian.zip -d sherlockholmescoin-${VERSION}-winsherlockholmescoinherlockHolmesCoin-${VERSION}-win32/sherlockholmescoin-*-setup.exe .
+	zip -r sherlockholmescoin-${VERSION}-win32.zip sherlockholmescoin-${VERSION}-win32
+	rm -rf sherlockholmescoin-${VERSION}-win32
 
 **Perform Mac build:**
 
   OSX binaries are created on a dedicated 32-bit, OSX 10.6.8 machine.
-  SherlockHolmesCoin 0.8.x is built with MacPorts.  0.9.x will beSherlockHolmesCoinw only.
+  sherlockholmescoin 0.8.x is built with MacPorts.  0.9.x will besherlockholmescoinw only.
 
 	qmake RELEASE=1 USE_UPNP=1 USE_QRCODE=1
 	make
-	export QTDIR=/opt/local/share/qtSherlockHolmesCoinded to find translations/qt_*.qm files
+	export QTDIR=/opt/local/share/qtsherlockholmescoinded to find translations/qt_*.qm files
 	T=$(contrib/qt_translations.py $QTDIR/translations src/qt/locale)
 	python2.7 share/qt/clean_mac_info_plist.py
-	python2.7 contrib/macdeploSherlockHolmesCoinloyqtplus SherlockHolmesCoin-Qt.app -add-qt-tr $T -dmg -fancy contrib/macdeploy/fancy.plist
+	python2.7 contrib/macdeplosherlockholmescoinloyqtplus sherlockholmescoin-Qt.app -add-qt-tr $T -dmg -fancy contrib/macdeploy/fancy.plist
 
- Build output expected: SherlockHolmesCoin-Qt.dmg
+ Build output expected: sherlockholmescoin-Qt.dmg
 
 ###Next steps:
 
 * Code-sign Windows -setup.exe (in a Windows virtual machine) and
-  OSX Bitcoin-Qt.app (Note: only Gavin has the code-signing keys currently)
+  OSX sherlockholmescoin-Qt.app (Note: only Gavin has the code-signing keys currently)
 
-* update SherlockHolmesCoin.org version
+* update sherlockholmescoin.org version
   make sure all OS download links go to the right versions
 
 * update forum version

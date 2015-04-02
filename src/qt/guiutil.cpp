@@ -6,9 +6,9 @@
 
 #include "guiutil.h"
 
-#include "sherlockholmescoinaddressvalidator.h"
+#include "bitcoinaddressvalidator.h"
 #include "walletmodel.h"
-#include "sherlockholmescoinunits.h"
+#include "bitcoinunits.h"
 
 #include "util.h"
 #include "init.h"

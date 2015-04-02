@@ -7,7 +7,7 @@
 
 #include "addresstablemodel.h"
 #include "optionsmodel.h"
-#include "sherlockholmescoingui.h"
+#include "bitcoingui.h"
 #include "editaddressdialog.h"
 #include "csvmodelwriter.h"
 #include "guiutil.h"

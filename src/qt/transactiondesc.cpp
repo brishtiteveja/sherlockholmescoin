@@ -5,7 +5,7 @@
 #include "transactiondesc.h"
 
 #include "guiutil.h"
-#include "sherlockholmescoinunits.h"
+#include "bitcoinunits.h"
 #include "main.h"
 #include "wallet.h"
 #include "db.h"

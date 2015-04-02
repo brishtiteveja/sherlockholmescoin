@@ -27,7 +27,7 @@ obj/rpcrawtransaction.o: rpcrawtransaction.cpp \
   /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/crypter.h \
   /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/sync.h \
   /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/threadsafety.h \
-  /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/sherlockholmescoinrpc.h \
+  /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/bitcoinrpc.h \
   /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/json/json_spirit_reader_template.h \
   /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/json/json_spirit_value.h \
   /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/json/json_spirit_error_position.h \
@@ -78,7 +78,7 @@ rpcrawtransaction.cpp :
   /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/crypter.h :
   /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/sync.h :
   /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/threadsafety.h :
-  /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/sherlockholmescoinrpc.h :
+  /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/bitcoinrpc.h :
   /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/json/json_spirit_reader_template.h :
   /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/json/json_spirit_value.h :
   /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/json/json_spirit_error_position.h :

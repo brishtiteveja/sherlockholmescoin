@@ -8,7 +8,7 @@
 #include "init.h"
 #include "walletmodel.h"
 #include "addresstablemodel.h"
-#include "sherlockholmescoinunits.h"
+#include "bitcoinunits.h"
 #include "addressbookpage.h"
 #include "optionsmodel.h"
 #include "sendcoinsentry.h"

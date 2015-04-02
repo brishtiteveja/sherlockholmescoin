@@ -4,7 +4,7 @@
 
 #include <QApplication>
 
-#include "sherlockholmescoingui.h"
+#include "bitcoingui.h"
 #include "clientmodel.h"
 #include "walletmodel.h"
 #include "optionsmodel.h"

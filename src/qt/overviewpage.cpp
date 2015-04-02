@@ -7,7 +7,7 @@
 
 #include "clientmodel.h"
 #include "walletmodel.h"
-#include "sherlockholmescoinunits.h"
+#include "bitcoinunits.h"
 #include "optionsmodel.h"
 #include "transactiontablemodel.h"
 #include "transactionfilterproxy.h"

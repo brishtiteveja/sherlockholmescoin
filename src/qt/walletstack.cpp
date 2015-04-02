@@ -6,7 +6,7 @@
  */
 #include "walletstack.h"
 #include "walletview.h"
-#include "sherlockholmescoingui.h"
+#include "bitcoingui.h"
 
 #include <QMap>
 #include <QMessageBox>

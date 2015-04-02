@@ -11,7 +11,7 @@
 #include "walletmodel.h"
 #include "optionsmodel.h"
 #include "addresstablemodel.h"
-#include "sherlockholmescoinunits.h"
+#include "bitcoinunits.h"
 
 #include "wallet.h"
 #include "ui_interface.h"

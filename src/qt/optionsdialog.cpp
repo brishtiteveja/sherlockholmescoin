@@ -5,7 +5,7 @@
 #include "optionsdialog.h"
 #include "ui_optionsdialog.h"
 
-#include "sherlockholmescoinunits.h"
+#include "bitcoinunits.h"
 #include "monitoreddatamapper.h"
 #include "netbase.h"
 #include "optionsmodel.h"

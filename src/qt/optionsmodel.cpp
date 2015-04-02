@@ -4,7 +4,7 @@
 
 #include "optionsmodel.h"
 
-#include "sherlockholmescoinunits.h"
+#include "bitcoinunits.h"
 #include "init.h"
 #include "walletdb.h"
 #include "guiutil.h"

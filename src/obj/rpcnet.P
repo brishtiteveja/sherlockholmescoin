@@ -27,7 +27,7 @@ obj/rpcnet.o: rpcnet.cpp \
   /usr/local/opt/openssl/include/openssl/sha.h \
   /usr/local/opt/openssl/include/openssl/ripemd.h \
   /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/bloom.h \
-  /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/sherlockholmescoinrpc.h \
+  /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/bitcoinrpc.h \
   /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/json/json_spirit_reader_template.h \
   /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/json/json_spirit_value.h \
   /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/json/json_spirit_error_position.h \
@@ -62,7 +62,7 @@ rpcnet.cpp :
   /usr/local/opt/openssl/include/openssl/sha.h :
   /usr/local/opt/openssl/include/openssl/ripemd.h :
   /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/bloom.h :
-  /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/sherlockholmescoinrpc.h :
+  /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/bitcoinrpc.h :
   /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/json/json_spirit_reader_template.h :
   /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/json/json_spirit_value.h :
   /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/json/json_spirit_error_position.h :

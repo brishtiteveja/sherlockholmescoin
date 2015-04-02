@@ -1,4 +1,4 @@
-obj/sherlockholmescoinrpc.o: sherlockholmescoinrpc.cpp \
+obj/bitcoinrpc.o: bitcoinrpc.cpp \
   /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/init.h \
   /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/wallet.h \
   /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/main.h \
@@ -43,13 +43,13 @@ obj/sherlockholmescoinrpc.o: sherlockholmescoinrpc.cpp \
   /usr/local/opt/berkeley-db4/include/db_cxx.h \
   /usr/local/opt/berkeley-db4/include/db.h \
   /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/base58.h \
-  /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/sherlockholmescoinrpc.h \
+  /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/bitcoinrpc.h \
   /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/json/json_spirit_reader_template.h \
   /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/json/json_spirit_value.h \
   /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/json/json_spirit_error_position.h \
   /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/json/json_spirit_writer_template.h \
   /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/json/json_spirit_utils.h
-sherlockholmescoinrpc.cpp :
+bitcoinrpc.cpp :
   /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/init.h :
   /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/wallet.h :
   /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/main.h :
@@ -94,7 +94,7 @@ sherlockholmescoinrpc.cpp :
   /usr/local/opt/berkeley-db4/include/db_cxx.h :
   /usr/local/opt/berkeley-db4/include/db.h :
   /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/base58.h :
-  /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/sherlockholmescoinrpc.h :
+  /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/bitcoinrpc.h :
   /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/json/json_spirit_reader_template.h :
   /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/json/json_spirit_value.h :
   /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/json/json_spirit_error_position.h :

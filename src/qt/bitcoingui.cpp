@@ -4,7 +4,7 @@
 
 #include <QApplication>
 
-#include "sherlockholmescoingui.h"
+#include "bitcoingui.h"
 
 #include "transactiontablemodel.h"
 #include "optionsdialog.h"
@@ -14,7 +14,7 @@
 #include "walletframe.h"
 #include "optionsmodel.h"
 #include "transactiondescdialog.h"
-#include "sherlockholmescoinunits.h"
+#include "bitcoinunits.h"
 #include "guiconstants.h"
 #include "notificator.h"
 #include "guiutil.h"

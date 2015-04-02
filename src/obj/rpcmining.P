@@ -43,7 +43,7 @@ obj/rpcmining.o: rpcmining.cpp \
   /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/ui_interface.h \
   /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/walletdb.h \
   /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/base58.h \
-  /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/sherlockholmescoinrpc.h \
+  /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/bitcoinrpc.h \
   /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/json/json_spirit_reader_template.h \
   /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/json/json_spirit_value.h \
   /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/json/json_spirit_error_position.h \
@@ -94,7 +94,7 @@ rpcmining.cpp :
   /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/ui_interface.h :
   /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/walletdb.h :
   /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/base58.h :
-  /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/sherlockholmescoinrpc.h :
+  /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/bitcoinrpc.h :
   /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/json/json_spirit_reader_template.h :
   /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/json/json_spirit_value.h :
   /Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/json/json_spirit_error_position.h :

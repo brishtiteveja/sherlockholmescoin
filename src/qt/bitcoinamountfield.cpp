@@ -2,10 +2,10 @@
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#include "sherlockholmescoinamountfield.h"
+#include "bitcoinamountfield.h"
 
 #include "qvaluecombobox.h"
-#include "sherlockholmescoinunits.h"
+#include "bitcoinunits.h"
 #include "guiconstants.h"
 
 #include <QHBoxLayout>
